@@ -1,0 +1,2227 @@
+! === Convert from Yongjun Li's pylatt input 
+
+! === Element definition:
+b1g3c01a: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g3c02a: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g3c04a: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g3c05a: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g3c06a: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g3c07a: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g3c08a: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g3c09a: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g3c10a: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g3c11a: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g3c12a: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g3c14a: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g3c15a: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g3c16a: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g3c17a: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g3c18a: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g3c19a: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g3c20a: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g3c21a: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g3c22a: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g3c24a: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g3c25a: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g3c26a: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g3c27a: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g3c28a: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g3c29a: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g3c30a: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g5c01b: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g5c02b: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g5c04b: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g5c05b: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g5c06b: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g5c07b: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g5c08b: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g5c09b: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g5c10b: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g5c11b: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g5c12b: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g5c14b: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g5c15b: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g5c16b: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g5c17b: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g5c18b: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g5c19b: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g5c20b: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g5c21b: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g5c22b: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g5c24b: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g5c25b: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g5c26b: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g5c27b: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g5c28b: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g5c29b: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b1g5c30b: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b2g3c03a: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b2g3c13a: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b2g3c23a: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b2g5c03b: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b2g5c13b: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+b2g5c23b: csbend, L = 2.62, angle =      0.10471976, e1 =      0.05236000, e2 =      0.05236000
+D0001: drif, L = 4.31579
+D0002: drif, L = 0.33421
+D0003: drif, L = 0.085
+D0004: drif, L = 0.081
+D0005: drif, L = 0.1485
+D0006: drif, L = 0.1255
+D0007: drif, L = 0.328
+D0008: drif, L = 0.184
+D0009: drif, L = 0.186
+D0010: drif, L = 0.07602
+D0011: drif, L = 0.08998
+D0012: drif, L = 0.1137
+D0013: drif, L = 0.2848
+D0014: drif, L = 0.1815
+D0015: drif, L = 0.601
+D0016: drif, L = 0.3755
+D0017: drif, L = 0.2015
+D0018: drif, L = 0.2552
+D0019: drif, L = 0.3144
+D0020: drif, L = 0.0844
+D0021: drif, L = 0.184
+D0022: drif, L = 0.184
+D0023: drif, L = 0.328
+D0024: drif, L = 0.176
+D0025: drif, L = 0.26226
+D0026: drif, L = 0.08924
+D0027: drif, L = 0.2605
+D0028: drif, L = 0.716
+D0029: drif, L = 0.591
+D0030: drif, L = 0.07822
+D0031: drif, L = 0.08778
+D0032: drif, L = 0.2575
+D0033: drif, L = 0.3021
+D0034: drif, L = 0.244
+D0035: drif, L = 0.23125
+D0036: drif, L = 0.23475
+D0037: drif, L = 0.0783
+D0038: drif, L = 0.0877
+D0039: drif, L = 0.46852
+D0040: drif, L = 5.79716
+D0041: drif, L = 0.33432
+D0042: drif, L = 0.09
+D0043: drif, L = 0.076
+D0044: drif, L = 0.23475
+D0045: drif, L = 0.23125
+D0046: drif, L = 0.244
+D0047: drif, L = 0.3021
+D0048: drif, L = 0.2575
+D0049: drif, L = 0.09008
+D0050: drif, L = 0.07592
+D0051: drif, L = 0.591
+D0052: drif, L = 0.501
+D0053: drif, L = 0.2755
+D0054: drif, L = 0.2015
+D0055: drif, L = 0.2552
+D0056: drif, L = 0.3144
+D0057: drif, L = 0.0844
+D0058: drif, L = 0.184
+D0059: drif, L = 0.184
+D0060: drif, L = 0.328
+D0061: drif, L = 0.176
+D0062: drif, L = 0.26226
+D0063: drif, L = 0.08924
+D0064: drif, L = 0.2605
+D0065: drif, L = 0.327011
+D0066: drif, L = 0.388989
+D0067: drif, L = 0.36634
+D0068: drif, L = 0.21366
+D0069: drif, L = 0.0896
+D0070: drif, L = 0.0764
+D0071: drif, L = 0.186
+D0072: drif, L = 0.184
+D0073: drif, L = 0.5785
+D0074: drif, L = 0.2235
+D0075: drif, L = 0.08059
+D0076: drif, L = 0.08541
+D0077: drif, L = 0.4629
+D0078: drif, L = 2.4371
+D0079: drif, L = 3.5
+D0080: drif, L = 2.56579
+D0081: drif, L = 0.33421
+D0082: drif, L = 0.085
+D0083: drif, L = 0.081
+D0084: drif, L = 0.1485
+D0085: drif, L = 0.4535
+D0086: drif, L = 0.184
+D0087: drif, L = 0.186
+D0088: drif, L = 0.07602
+D0089: drif, L = 0.08998
+D0090: drif, L = 0.3985
+D0091: drif, L = 0.1815
+D0092: drif, L = 0.601
+D0093: drif, L = 0.3755
+D0094: drif, L = 0.2015
+D0095: drif, L = 0.2552
+D0096: drif, L = 0.3144
+D0097: drif, L = 0.0844
+D0098: drif, L = 0.184
+D0099: drif, L = 0.184
+D0100: drif, L = 0.504
+D0101: drif, L = 0.26226
+D0102: drif, L = 0.08924
+D0103: drif, L = 0.2605
+D0104: drif, L = 0.716
+D0105: drif, L = 0.591
+D0106: drif, L = 0.07822
+D0107: drif, L = 0.08778
+D0108: drif, L = 0.2575
+D0109: drif, L = 0.3021
+D0110: drif, L = 0.244
+D0111: drif, L = 0.23125
+D0112: drif, L = 0.23475
+D0113: drif, L = 0.0783
+D0114: drif, L = 0.0877
+D0115: drif, L = 0.46852
+D0116: drif, L = 0.2887
+D0117: drif, L = 1.04278
+D0118: drif, L = 3
+D0119: drif, L = 1.17863
+D0120: drif, L = 0.28705
+D0121: drif, L = 0.33432
+D0122: drif, L = 0.09
+D0123: drif, L = 0.076
+D0124: drif, L = 0.23475
+D0125: drif, L = 0.23125
+D0126: drif, L = 0.244
+D0127: drif, L = 0.3021
+D0128: drif, L = 0.2575
+D0129: drif, L = 0.09008
+D0130: drif, L = 0.07592
+D0131: drif, L = 0.591
+D0132: drif, L = 0.501
+D0133: drif, L = 0.2755
+D0134: drif, L = 0.2015
+D0135: drif, L = 0.2552
+D0136: drif, L = 0.3144
+D0137: drif, L = 0.0844
+D0138: drif, L = 0.184
+D0139: drif, L = 0.184
+D0140: drif, L = 0.504
+D0141: drif, L = 0.26226
+D0142: drif, L = 0.08924
+D0143: drif, L = 0.2605
+D0144: drif, L = 0.716
+D0145: drif, L = 0.36634
+D0146: drif, L = 0.21366
+D0147: drif, L = 0.0896
+D0148: drif, L = 0.0764
+D0149: drif, L = 0.186
+D0150: drif, L = 0.184
+D0151: drif, L = 0.5785
+D0152: drif, L = 0.2235
+D0153: drif, L = 0.08059
+D0154: drif, L = 0.08541
+D0155: drif, L = 0.4629
+D0156: drif, L = 8.50289
+D0157: drif, L = 0.33421
+D0158: drif, L = 0.085
+D0159: drif, L = 0.081
+D0160: drif, L = 0.1485
+D0161: drif, L = 0.4535
+D0162: drif, L = 0.184
+D0163: drif, L = 0.186
+D0164: drif, L = 0.07602
+D0165: drif, L = 0.08998
+D0166: drif, L = 0.3985
+D0167: drif, L = 0.1815
+D0168: drif, L = 0.601
+D0169: drif, L = 0.3755
+D0170: drif, L = 0.2015
+D0171: drif, L = 0.2552
+D0172: drif, L = 0.3144
+D0173: drif, L = 0.0844
+D0174: drif, L = 0.184
+D0175: drif, L = 0.184
+D0176: drif, L = 0.504
+D0177: drif, L = 0.26226
+D0178: drif, L = 0.08924
+D0179: drif, L = 0.2605
+D0180: drif, L = 0.716
+D0181: drif, L = 0.591
+D0182: drif, L = 0.07822
+D0183: drif, L = 0.08778
+D0184: drif, L = 0.2575
+D0185: drif, L = 0.3021
+D0186: drif, L = 0.244
+D0187: drif, L = 0.23125
+D0188: drif, L = 0.23475
+D0189: drif, L = 0.0783
+D0190: drif, L = 0.0877
+D0191: drif, L = 0.46852
+D0192: drif, L = 0.168
+D0193: drif, L = 2.66348
+D0194: drif, L = 0.55551
+D0195: drif, L = 1.5
+D0196: drif, L = 0.74217
+D0197: drif, L = 0.168
+D0198: drif, L = 0.33432
+D0199: drif, L = 0.09
+D0200: drif, L = 0.076
+D0201: drif, L = 0.23475
+D0202: drif, L = 0.23125
+D0203: drif, L = 0.244
+D0204: drif, L = 0.3021
+D0205: drif, L = 0.2575
+D0206: drif, L = 0.09008
+D0207: drif, L = 0.07592
+D0208: drif, L = 0.591
+D0209: drif, L = 0.501
+D0210: drif, L = 0.2755
+D0211: drif, L = 0.2015
+D0212: drif, L = 0.2552
+D0213: drif, L = 0.3144
+D0214: drif, L = 0.0844
+D0215: drif, L = 0.184
+D0216: drif, L = 0.184
+D0217: drif, L = 0.504
+D0218: drif, L = 0.26226
+D0219: drif, L = 0.08924
+D0220: drif, L = 0.2605
+D0221: drif, L = 0.716
+D0222: drif, L = 0.36634
+D0223: drif, L = 0.21366
+D0224: drif, L = 0.0896
+D0225: drif, L = 0.0764
+D0226: drif, L = 0.186
+D0227: drif, L = 0.184
+D0228: drif, L = 0.5785
+D0229: drif, L = 0.2235
+D0230: drif, L = 0.08059
+D0231: drif, L = 0.08541
+D0232: drif, L = 0.4629
+D0233: drif, L = 8.50289
+D0234: drif, L = 0.33421
+D0235: drif, L = 0.085
+D0236: drif, L = 0.081
+D0237: drif, L = 0.1485
+D0238: drif, L = 0.4535
+D0239: drif, L = 0.184
+D0240: drif, L = 0.186
+D0241: drif, L = 0.07602
+D0242: drif, L = 0.08998
+D0243: drif, L = 0.3985
+D0244: drif, L = 0.1815
+D0245: drif, L = 0.601
+D0246: drif, L = 0.3755
+D0247: drif, L = 0.2015
+D0248: drif, L = 0.2552
+D0249: drif, L = 0.3144
+D0250: drif, L = 0.0844
+D0251: drif, L = 0.184
+D0252: drif, L = 0.184
+D0253: drif, L = 0.504
+D0254: drif, L = 0.26226
+D0255: drif, L = 0.08924
+D0256: drif, L = 0.2605
+D0257: drif, L = 0.716
+D0258: drif, L = 0.591
+D0259: drif, L = 0.07822
+D0260: drif, L = 0.08778
+D0261: drif, L = 0.2575
+D0262: drif, L = 0.3021
+D0263: drif, L = 0.244
+D0264: drif, L = 0.23125
+D0265: drif, L = 0.23475
+D0266: drif, L = 0.0783
+D0267: drif, L = 0.0877
+D0268: drif, L = 0.46852
+D0269: drif, L = 5.79716
+D0270: drif, L = 0.33432
+D0271: drif, L = 0.09
+D0272: drif, L = 0.076
+D0273: drif, L = 0.23475
+D0274: drif, L = 0.23125
+D0275: drif, L = 0.244
+D0276: drif, L = 0.3021
+D0277: drif, L = 0.2575
+D0278: drif, L = 0.09008
+D0279: drif, L = 0.07592
+D0280: drif, L = 0.591
+D0281: drif, L = 0.501
+D0282: drif, L = 0.2755
+D0283: drif, L = 0.2015
+D0284: drif, L = 0.2552
+D0285: drif, L = 0.3144
+D0286: drif, L = 0.0844
+D0287: drif, L = 0.184
+D0288: drif, L = 0.184
+D0289: drif, L = 0.504
+D0290: drif, L = 0.26226
+D0291: drif, L = 0.08924
+D0292: drif, L = 0.2605
+D0293: drif, L = 0.716
+D0294: drif, L = 0.36634
+D0295: drif, L = 0.21366
+D0296: drif, L = 0.0896
+D0297: drif, L = 0.0764
+D0298: drif, L = 0.186
+D0299: drif, L = 0.184
+D0300: drif, L = 0.5785
+D0301: drif, L = 0.2235
+D0302: drif, L = 0.08059
+D0303: drif, L = 0.08541
+D0304: drif, L = 0.4629
+D0305: drif, L = 0.52485
+D0306: drif, L = 0.07175
+D0307: drif, L = 0.381
+D0308: drif, L = 0.0872
+D0309: drif, L = 0.63809
+D0310: drif, L = 0.33421
+D0311: drif, L = 0.085
+D0312: drif, L = 0.081
+D0313: drif, L = 0.1485
+D0314: drif, L = 0.4535
+D0315: drif, L = 0.184
+D0316: drif, L = 0.186
+D0317: drif, L = 0.07602
+D0318: drif, L = 0.08998
+D0319: drif, L = 0.3985
+D0320: drif, L = 0.1815
+D0321: drif, L = 0.601
+D0322: drif, L = 0.3755
+D0323: drif, L = 0.2015
+D0324: drif, L = 0.2552
+D0325: drif, L = 0.3144
+D0326: drif, L = 0.0844
+D0327: drif, L = 0.184
+D0328: drif, L = 0.184
+D0329: drif, L = 0.504
+D0330: drif, L = 0.26226
+D0331: drif, L = 0.08924
+D0332: drif, L = 0.2605
+D0333: drif, L = 0.716
+D0334: drif, L = 0.591
+D0335: drif, L = 0.07822
+D0336: drif, L = 0.08778
+D0337: drif, L = 0.2575
+D0338: drif, L = 0.3021
+D0339: drif, L = 0.244
+D0340: drif, L = 0.23125
+D0341: drif, L = 0.23475
+D0342: drif, L = 0.0783
+D0343: drif, L = 0.0877
+D0344: drif, L = 0.46852
+D0345: drif, L = 5.79716
+D0346: drif, L = 0.33432
+D0347: drif, L = 0.09
+D0348: drif, L = 0.076
+D0349: drif, L = 0.23475
+D0350: drif, L = 0.23125
+D0351: drif, L = 0.244
+D0352: drif, L = 0.3021
+D0353: drif, L = 0.2575
+D0354: drif, L = 0.09008
+D0355: drif, L = 0.07592
+D0356: drif, L = 0.591
+D0357: drif, L = 0.501
+D0358: drif, L = 0.2755
+D0359: drif, L = 0.2015
+D0360: drif, L = 0.2552
+D0361: drif, L = 0.3144
+D0362: drif, L = 0.0844
+D0363: drif, L = 0.184
+D0364: drif, L = 0.184
+D0365: drif, L = 0.504
+D0366: drif, L = 0.26226
+D0367: drif, L = 0.08924
+D0368: drif, L = 0.2605
+D0369: drif, L = 0.716
+D0370: drif, L = 0.36634
+D0371: drif, L = 0.21366
+D0372: drif, L = 0.0896
+D0373: drif, L = 0.0764
+D0374: drif, L = 0.186
+D0375: drif, L = 0.184
+D0376: drif, L = 0.5785
+D0377: drif, L = 0.2235
+D0378: drif, L = 0.08059
+D0379: drif, L = 0.08541
+D0380: drif, L = 0.4629
+D0381: drif, L = 0.28832
+D0382: drif, L = 2.39878
+D0383: drif, L = 3
+D0384: drif, L = 2.52858
+D0385: drif, L = 0.28721
+D0386: drif, L = 0.33421
+D0387: drif, L = 0.085
+D0388: drif, L = 0.081
+D0389: drif, L = 0.1485
+D0390: drif, L = 0.4535
+D0391: drif, L = 0.184
+D0392: drif, L = 0.186
+D0393: drif, L = 0.07602
+D0394: drif, L = 0.08998
+D0395: drif, L = 0.3985
+D0396: drif, L = 0.1815
+D0397: drif, L = 0.601
+D0398: drif, L = 0.3755
+D0399: drif, L = 0.2015
+D0400: drif, L = 0.2552
+D0401: drif, L = 0.3144
+D0402: drif, L = 0.0844
+D0403: drif, L = 0.184
+D0404: drif, L = 0.184
+D0405: drif, L = 0.504
+D0406: drif, L = 0.26226
+D0407: drif, L = 0.08924
+D0408: drif, L = 0.2605
+D0409: drif, L = 0.716
+D0410: drif, L = 0.591
+D0411: drif, L = 0.07822
+D0412: drif, L = 0.08778
+D0413: drif, L = 0.2575
+D0414: drif, L = 0.3021
+D0415: drif, L = 0.244
+D0416: drif, L = 0.23125
+D0417: drif, L = 0.23475
+D0418: drif, L = 0.0783
+D0419: drif, L = 0.0877
+D0420: drif, L = 0.46852
+D0421: drif, L = 0.2887
+D0422: drif, L = 1.04278
+D0423: drif, L = 3
+D0424: drif, L = 1.17863
+D0425: drif, L = 0.28705
+D0426: drif, L = 0.33432
+D0427: drif, L = 0.09
+D0428: drif, L = 0.076
+D0429: drif, L = 0.23475
+D0430: drif, L = 0.23125
+D0431: drif, L = 0.244
+D0432: drif, L = 0.3021
+D0433: drif, L = 0.2575
+D0434: drif, L = 0.09008
+D0435: drif, L = 0.07592
+D0436: drif, L = 0.591
+D0437: drif, L = 0.501
+D0438: drif, L = 0.2755
+D0439: drif, L = 0.2015
+D0440: drif, L = 0.2552
+D0441: drif, L = 0.3144
+D0442: drif, L = 0.0844
+D0443: drif, L = 0.184
+D0444: drif, L = 0.184
+D0445: drif, L = 0.504
+D0446: drif, L = 0.26226
+D0447: drif, L = 0.08924
+D0448: drif, L = 0.2605
+D0449: drif, L = 0.716
+D0450: drif, L = 0.36634
+D0451: drif, L = 0.21366
+D0452: drif, L = 0.0896
+D0453: drif, L = 0.0764
+D0454: drif, L = 0.186
+D0455: drif, L = 0.184
+D0456: drif, L = 0.5785
+D0457: drif, L = 0.2235
+D0458: drif, L = 0.08059
+D0459: drif, L = 0.08541
+D0460: drif, L = 0.4629
+D0461: drif, L = 8.50289
+D0462: drif, L = 0.33421
+D0463: drif, L = 0.085
+D0464: drif, L = 0.081
+D0465: drif, L = 0.1485
+D0466: drif, L = 0.4535
+D0467: drif, L = 0.184
+D0468: drif, L = 0.186
+D0469: drif, L = 0.07602
+D0470: drif, L = 0.08998
+D0471: drif, L = 0.3985
+D0472: drif, L = 0.1815
+D0473: drif, L = 0.601
+D0474: drif, L = 0.3755
+D0475: drif, L = 0.2015
+D0476: drif, L = 0.2552
+D0477: drif, L = 0.3144
+D0478: drif, L = 0.0844
+D0479: drif, L = 0.184
+D0480: drif, L = 0.184
+D0481: drif, L = 0.504
+D0482: drif, L = 0.26226
+D0483: drif, L = 0.08924
+D0484: drif, L = 0.2605
+D0485: drif, L = 0.716
+D0486: drif, L = 0.591
+D0487: drif, L = 0.07822
+D0488: drif, L = 0.08778
+D0489: drif, L = 0.2575
+D0490: drif, L = 0.3021
+D0491: drif, L = 0.244
+D0492: drif, L = 0.23125
+D0493: drif, L = 0.23475
+D0494: drif, L = 0.0783
+D0495: drif, L = 0.0877
+D0496: drif, L = 0.46852
+D0497: drif, L = 5.79716
+D0498: drif, L = 0.33432
+D0499: drif, L = 0.09
+D0500: drif, L = 0.076
+D0501: drif, L = 0.23475
+D0502: drif, L = 0.23125
+D0503: drif, L = 0.244
+D0504: drif, L = 0.3021
+D0505: drif, L = 0.2575
+D0506: drif, L = 0.09008
+D0507: drif, L = 0.07592
+D0508: drif, L = 0.591
+D0509: drif, L = 0.501
+D0510: drif, L = 0.2755
+D0511: drif, L = 0.2015
+D0512: drif, L = 0.2552
+D0513: drif, L = 0.3144
+D0514: drif, L = 0.0844
+D0515: drif, L = 0.184
+D0516: drif, L = 0.184
+D0517: drif, L = 0.504
+D0518: drif, L = 0.26226
+D0519: drif, L = 0.08924
+D0520: drif, L = 0.2605
+D0521: drif, L = 0.716
+D0522: drif, L = 0.36634
+D0523: drif, L = 0.21366
+D0524: drif, L = 0.0896
+D0525: drif, L = 0.0764
+D0526: drif, L = 0.186
+D0527: drif, L = 0.184
+D0528: drif, L = 0.5785
+D0529: drif, L = 0.2235
+D0530: drif, L = 0.08059
+D0531: drif, L = 0.08541
+D0532: drif, L = 0.4629
+D0533: drif, L = 8.50289
+D0534: drif, L = 0.33421
+D0535: drif, L = 0.085
+D0536: drif, L = 0.081
+D0537: drif, L = 0.1485
+D0538: drif, L = 0.4535
+D0539: drif, L = 0.184
+D0540: drif, L = 0.186
+D0541: drif, L = 0.07602
+D0542: drif, L = 0.08998
+D0543: drif, L = 0.3985
+D0544: drif, L = 0.1815
+D0545: drif, L = 0.601
+D0546: drif, L = 0.3755
+D0547: drif, L = 0.2015
+D0548: drif, L = 0.2552
+D0549: drif, L = 0.3144
+D0550: drif, L = 0.0844
+D0551: drif, L = 0.184
+D0552: drif, L = 0.184
+D0553: drif, L = 0.504
+D0554: drif, L = 0.26226
+D0555: drif, L = 0.08924
+D0556: drif, L = 0.2605
+D0557: drif, L = 0.716
+D0558: drif, L = 0.591
+D0559: drif, L = 0.07822
+D0560: drif, L = 0.08778
+D0561: drif, L = 0.2575
+D0562: drif, L = 0.3021
+D0563: drif, L = 0.244
+D0564: drif, L = 0.23125
+D0565: drif, L = 0.23475
+D0566: drif, L = 0.0783
+D0567: drif, L = 0.0877
+D0568: drif, L = 0.46852
+D0569: drif, L = 5.79716
+D0570: drif, L = 0.33432
+D0571: drif, L = 0.09
+D0572: drif, L = 0.076
+D0573: drif, L = 0.23475
+D0574: drif, L = 0.23125
+D0575: drif, L = 0.244
+D0576: drif, L = 0.3021
+D0577: drif, L = 0.2575
+D0578: drif, L = 0.09008
+D0579: drif, L = 0.07592
+D0580: drif, L = 0.591
+D0581: drif, L = 0.501
+D0582: drif, L = 0.2755
+D0583: drif, L = 0.2015
+D0584: drif, L = 0.2552
+D0585: drif, L = 0.3144
+D0586: drif, L = 0.0844
+D0587: drif, L = 0.184
+D0588: drif, L = 0.184
+D0589: drif, L = 0.504
+D0590: drif, L = 0.26226
+D0591: drif, L = 0.08924
+D0592: drif, L = 0.2605
+D0593: drif, L = 0.716
+D0594: drif, L = 0.36634
+D0595: drif, L = 0.21366
+D0596: drif, L = 0.0896
+D0597: drif, L = 0.0764
+D0598: drif, L = 0.186
+D0599: drif, L = 0.184
+D0600: drif, L = 0.5785
+D0601: drif, L = 0.2235
+D0602: drif, L = 0.08059
+D0603: drif, L = 0.08541
+D0604: drif, L = 0.4629
+D0605: drif, L = 8.50289
+D0606: drif, L = 0.33421
+D0607: drif, L = 0.085
+D0608: drif, L = 0.081
+D0609: drif, L = 0.1485
+D0610: drif, L = 0.4535
+D0611: drif, L = 0.184
+D0612: drif, L = 0.186
+D0613: drif, L = 0.07602
+D0614: drif, L = 0.08998
+D0615: drif, L = 0.3985
+D0616: drif, L = 0.1815
+D0617: drif, L = 0.601
+D0618: drif, L = 0.3755
+D0619: drif, L = 0.2015
+D0620: drif, L = 0.2552
+D0621: drif, L = 0.3144
+D0622: drif, L = 0.0844
+D0623: drif, L = 0.184
+D0624: drif, L = 0.184
+D0625: drif, L = 0.504
+D0626: drif, L = 0.26226
+D0627: drif, L = 0.08924
+D0628: drif, L = 0.2605
+D0629: drif, L = 0.716
+D0630: drif, L = 0.591
+D0631: drif, L = 0.07822
+D0632: drif, L = 0.08778
+D0633: drif, L = 0.2575
+D0634: drif, L = 0.3021
+D0635: drif, L = 0.244
+D0636: drif, L = 0.23125
+D0637: drif, L = 0.23475
+D0638: drif, L = 0.0783
+D0639: drif, L = 0.0877
+D0640: drif, L = 0.46852
+D0641: drif, L = 5.79716
+D0642: drif, L = 0.33432
+D0643: drif, L = 0.09
+D0644: drif, L = 0.076
+D0645: drif, L = 0.23475
+D0646: drif, L = 0.23125
+D0647: drif, L = 0.244
+D0648: drif, L = 0.3021
+D0649: drif, L = 0.2575
+D0650: drif, L = 0.09008
+D0651: drif, L = 0.07592
+D0652: drif, L = 0.591
+D0653: drif, L = 0.501
+D0654: drif, L = 0.2755
+D0655: drif, L = 0.2015
+D0656: drif, L = 0.2552
+D0657: drif, L = 0.3144
+D0658: drif, L = 0.0844
+D0659: drif, L = 0.184
+D0660: drif, L = 0.184
+D0661: drif, L = 0.504
+D0662: drif, L = 0.26226
+D0663: drif, L = 0.08924
+D0664: drif, L = 0.2605
+D0665: drif, L = 0.716
+D0666: drif, L = 0.36634
+D0667: drif, L = 0.21366
+D0668: drif, L = 0.0896
+D0669: drif, L = 0.0764
+D0670: drif, L = 0.186
+D0671: drif, L = 0.184
+D0672: drif, L = 0.5785
+D0673: drif, L = 0.2235
+D0674: drif, L = 0.08059
+D0675: drif, L = 0.08541
+D0676: drif, L = 0.4629
+D0677: drif, L = 0.52485
+D0678: drif, L = 0.07175
+D0679: drif, L = 0.381
+D0680: drif, L = 0.0872
+D0681: drif, L = 0.63809
+D0682: drif, L = 0.33421
+D0683: drif, L = 0.085
+D0684: drif, L = 0.081
+D0685: drif, L = 0.1485
+D0686: drif, L = 0.4535
+D0687: drif, L = 0.184
+D0688: drif, L = 0.186
+D0689: drif, L = 0.07602
+D0690: drif, L = 0.08998
+D0691: drif, L = 0.3985
+D0692: drif, L = 0.1815
+D0693: drif, L = 0.601
+D0694: drif, L = 0.3755
+D0695: drif, L = 0.2015
+D0696: drif, L = 0.2552
+D0697: drif, L = 0.3144
+D0698: drif, L = 0.0844
+D0699: drif, L = 0.184
+D0700: drif, L = 0.184
+D0701: drif, L = 0.504
+D0702: drif, L = 0.26226
+D0703: drif, L = 0.08924
+D0704: drif, L = 0.2605
+D0705: drif, L = 0.716
+D0706: drif, L = 0.591
+D0707: drif, L = 0.07822
+D0708: drif, L = 0.08778
+D0709: drif, L = 0.2575
+D0710: drif, L = 0.3021
+D0711: drif, L = 0.244
+D0712: drif, L = 0.23125
+D0713: drif, L = 0.23475
+D0714: drif, L = 0.0783
+D0715: drif, L = 0.0877
+D0716: drif, L = 0.46852
+D0717: drif, L = 5.79716
+D0718: drif, L = 0.33432
+D0719: drif, L = 0.09
+D0720: drif, L = 0.076
+D0721: drif, L = 0.23475
+D0722: drif, L = 0.23125
+D0723: drif, L = 0.244
+D0724: drif, L = 0.3021
+D0725: drif, L = 0.2575
+D0726: drif, L = 0.09008
+D0727: drif, L = 0.07592
+D0728: drif, L = 0.591
+D0729: drif, L = 0.501
+D0730: drif, L = 0.2755
+D0731: drif, L = 0.2015
+D0732: drif, L = 0.2552
+D0733: drif, L = 0.3144
+D0734: drif, L = 0.0844
+D0735: drif, L = 0.184
+D0736: drif, L = 0.184
+D0737: drif, L = 0.504
+D0738: drif, L = 0.26226
+D0739: drif, L = 0.08924
+D0740: drif, L = 0.2605
+D0741: drif, L = 0.716
+D0742: drif, L = 0.36634
+D0743: drif, L = 0.21366
+D0744: drif, L = 0.0896
+D0745: drif, L = 0.0764
+D0746: drif, L = 0.186
+D0747: drif, L = 0.184
+D0748: drif, L = 0.5785
+D0749: drif, L = 0.2235
+D0750: drif, L = 0.08059
+D0751: drif, L = 0.08541
+D0752: drif, L = 0.4629
+D0753: drif, L = 8.50289
+D0754: drif, L = 0.33421
+D0755: drif, L = 0.085
+D0756: drif, L = 0.081
+D0757: drif, L = 0.1485
+D0758: drif, L = 0.4535
+D0759: drif, L = 0.184
+D0760: drif, L = 0.186
+D0761: drif, L = 0.07602
+D0762: drif, L = 0.08998
+D0763: drif, L = 0.3985
+D0764: drif, L = 0.1815
+D0765: drif, L = 0.601
+D0766: drif, L = 0.3755
+D0767: drif, L = 0.2015
+D0768: drif, L = 0.2552
+D0769: drif, L = 0.3144
+D0770: drif, L = 0.0844
+D0771: drif, L = 0.184
+D0772: drif, L = 0.184
+D0773: drif, L = 0.504
+D0774: drif, L = 0.26226
+D0775: drif, L = 0.08924
+D0776: drif, L = 0.2605
+D0777: drif, L = 0.716
+D0778: drif, L = 0.591
+D0779: drif, L = 0.07822
+D0780: drif, L = 0.08778
+D0781: drif, L = 0.2575
+D0782: drif, L = 0.3021
+D0783: drif, L = 0.244
+D0784: drif, L = 0.23125
+D0785: drif, L = 0.23475
+D0786: drif, L = 0.0783
+D0787: drif, L = 0.0877
+D0788: drif, L = 0.46852
+D0789: drif, L = 0.70548
+D0790: drif, L = 4.402
+D0791: drif, L = 0.68968
+D0792: drif, L = 0.33432
+D0793: drif, L = 0.09
+D0794: drif, L = 0.076
+D0795: drif, L = 0.23475
+D0796: drif, L = 0.23125
+D0797: drif, L = 0.244
+D0798: drif, L = 0.3021
+D0799: drif, L = 0.2575
+D0800: drif, L = 0.09008
+D0801: drif, L = 0.07592
+D0802: drif, L = 0.591
+D0803: drif, L = 0.501
+D0804: drif, L = 0.2755
+D0805: drif, L = 0.2015
+D0806: drif, L = 0.2552
+D0807: drif, L = 0.3144
+D0808: drif, L = 0.0844
+D0809: drif, L = 0.184
+D0810: drif, L = 0.184
+D0811: drif, L = 0.504
+D0812: drif, L = 0.26226
+D0813: drif, L = 0.08924
+D0814: drif, L = 0.2605
+D0815: drif, L = 0.716
+D0816: drif, L = 0.36634
+D0817: drif, L = 0.21366
+D0818: drif, L = 0.0896
+D0819: drif, L = 0.0764
+D0820: drif, L = 0.186
+D0821: drif, L = 0.184
+D0822: drif, L = 0.5785
+D0823: drif, L = 0.2235
+D0824: drif, L = 0.08059
+D0825: drif, L = 0.08541
+D0826: drif, L = 0.4629
+D0827: drif, L = 3.818
+D0828: drif, L = 4.68489
+D0829: drif, L = 0.33421
+D0830: drif, L = 0.085
+D0831: drif, L = 0.081
+D0832: drif, L = 0.1485
+D0833: drif, L = 0.4535
+D0834: drif, L = 0.184
+D0835: drif, L = 0.186
+D0836: drif, L = 0.07602
+D0837: drif, L = 0.08998
+D0838: drif, L = 0.3985
+D0839: drif, L = 0.1815
+D0840: drif, L = 0.601
+D0841: drif, L = 0.3755
+D0842: drif, L = 0.2015
+D0843: drif, L = 0.2552
+D0844: drif, L = 0.3144
+D0845: drif, L = 0.0844
+D0846: drif, L = 0.184
+D0847: drif, L = 0.184
+D0848: drif, L = 0.504
+D0849: drif, L = 0.26226
+D0850: drif, L = 0.08924
+D0851: drif, L = 0.2605
+D0852: drif, L = 0.716
+D0853: drif, L = 0.591
+D0854: drif, L = 0.07822
+D0855: drif, L = 0.08778
+D0856: drif, L = 0.2575
+D0857: drif, L = 0.3021
+D0858: drif, L = 0.244
+D0859: drif, L = 0.23125
+D0860: drif, L = 0.23475
+D0861: drif, L = 0.0783
+D0862: drif, L = 0.0877
+D0863: drif, L = 0.46852
+D0864: drif, L = 0.55848
+D0865: drif, L = 0.068
+D0866: drif, L = 2
+D0867: drif, L = 0.409
+D0868: drif, L = 0.076
+D0869: drif, L = 2
+D0870: drif, L = 0.128
+D0871: drif, L = 0.55768
+D0872: drif, L = 0.33432
+D0873: drif, L = 0.09
+D0874: drif, L = 0.076
+D0875: drif, L = 0.23475
+D0876: drif, L = 0.23125
+D0877: drif, L = 0.244
+D0878: drif, L = 0.3021
+D0879: drif, L = 0.2575
+D0880: drif, L = 0.09008
+D0881: drif, L = 0.07592
+D0882: drif, L = 0.591
+D0883: drif, L = 0.501
+D0884: drif, L = 0.2755
+D0885: drif, L = 0.2015
+D0886: drif, L = 0.2552
+D0887: drif, L = 0.3144
+D0888: drif, L = 0.0844
+D0889: drif, L = 0.184
+D0890: drif, L = 0.184
+D0891: drif, L = 0.504
+D0892: drif, L = 0.26226
+D0893: drif, L = 0.08924
+D0894: drif, L = 0.2605
+D0895: drif, L = 0.716
+D0896: drif, L = 0.36634
+D0897: drif, L = 0.21366
+D0898: drif, L = 0.0896
+D0899: drif, L = 0.0764
+D0900: drif, L = 0.186
+D0901: drif, L = 0.184
+D0902: drif, L = 0.5785
+D0903: drif, L = 0.2235
+D0904: drif, L = 0.08059
+D0905: drif, L = 0.08541
+D0906: drif, L = 0.4629
+D0907: drif, L = 8.50289
+D0908: drif, L = 0.33421
+D0909: drif, L = 0.085
+D0910: drif, L = 0.081
+D0911: drif, L = 0.1485
+D0912: drif, L = 0.4535
+D0913: drif, L = 0.184
+D0914: drif, L = 0.186
+D0915: drif, L = 0.07602
+D0916: drif, L = 0.08998
+D0917: drif, L = 0.3985
+D0918: drif, L = 0.1815
+D0919: drif, L = 0.601
+D0920: drif, L = 0.3755
+D0921: drif, L = 0.2015
+D0922: drif, L = 0.2552
+D0923: drif, L = 0.3144
+D0924: drif, L = 0.0844
+D0925: drif, L = 0.184
+D0926: drif, L = 0.184
+D0927: drif, L = 0.504
+D0928: drif, L = 0.26226
+D0929: drif, L = 0.08924
+D0930: drif, L = 0.2605
+D0931: drif, L = 0.716
+D0932: drif, L = 0.591
+D0933: drif, L = 0.07822
+D0934: drif, L = 0.08778
+D0935: drif, L = 0.2575
+D0936: drif, L = 0.3021
+D0937: drif, L = 0.244
+D0938: drif, L = 0.23125
+D0939: drif, L = 0.23475
+D0940: drif, L = 0.0783
+D0941: drif, L = 0.0877
+D0942: drif, L = 0.46852
+D0943: drif, L = 5.79716
+D0944: drif, L = 0.33432
+D0945: drif, L = 0.09
+D0946: drif, L = 0.076
+D0947: drif, L = 0.23475
+D0948: drif, L = 0.23125
+D0949: drif, L = 0.244
+D0950: drif, L = 0.3021
+D0951: drif, L = 0.2575
+D0952: drif, L = 0.09008
+D0953: drif, L = 0.07592
+D0954: drif, L = 0.591
+D0955: drif, L = 0.501
+D0956: drif, L = 0.2755
+D0957: drif, L = 0.2015
+D0958: drif, L = 0.2552
+D0959: drif, L = 0.3144
+D0960: drif, L = 0.0844
+D0961: drif, L = 0.184
+D0962: drif, L = 0.184
+D0963: drif, L = 0.504
+D0964: drif, L = 0.26226
+D0965: drif, L = 0.08924
+D0966: drif, L = 0.2605
+D0967: drif, L = 0.716
+D0968: drif, L = 0.36634
+D0969: drif, L = 0.21366
+D0970: drif, L = 0.0896
+D0971: drif, L = 0.0764
+D0972: drif, L = 0.186
+D0973: drif, L = 0.184
+D0974: drif, L = 0.5785
+D0975: drif, L = 0.2235
+D0976: drif, L = 0.08059
+D0977: drif, L = 0.08541
+D0978: drif, L = 0.4629
+D0979: drif, L = 8.50289
+D0980: drif, L = 0.33421
+D0981: drif, L = 0.085
+D0982: drif, L = 0.081
+D0983: drif, L = 0.1485
+D0984: drif, L = 0.4535
+D0985: drif, L = 0.184
+D0986: drif, L = 0.186
+D0987: drif, L = 0.07602
+D0988: drif, L = 0.08998
+D0989: drif, L = 0.3985
+D0990: drif, L = 0.1815
+D0991: drif, L = 0.601
+D0992: drif, L = 0.3755
+D0993: drif, L = 0.2015
+D0994: drif, L = 0.2552
+D0995: drif, L = 0.3144
+D0996: drif, L = 0.0844
+D0997: drif, L = 0.184
+D0998: drif, L = 0.184
+D0999: drif, L = 0.504
+D1000: drif, L = 0.26226
+D1001: drif, L = 0.08924
+D1002: drif, L = 0.2605
+D1003: drif, L = 0.716
+D1004: drif, L = 0.591
+D1005: drif, L = 0.07822
+D1006: drif, L = 0.08778
+D1007: drif, L = 0.2575
+D1008: drif, L = 0.3021
+D1009: drif, L = 0.244
+D1010: drif, L = 0.23125
+D1011: drif, L = 0.23475
+D1012: drif, L = 0.0783
+D1013: drif, L = 0.0877
+D1014: drif, L = 0.46852
+D1015: drif, L = 5.79716
+D1016: drif, L = 0.33432
+D1017: drif, L = 0.09
+D1018: drif, L = 0.076
+D1019: drif, L = 0.23475
+D1020: drif, L = 0.23125
+D1021: drif, L = 0.244
+D1022: drif, L = 0.3021
+D1023: drif, L = 0.2575
+D1024: drif, L = 0.09008
+D1025: drif, L = 0.07592
+D1026: drif, L = 0.591
+D1027: drif, L = 0.501
+D1028: drif, L = 0.2755
+D1029: drif, L = 0.2015
+D1030: drif, L = 0.2552
+D1031: drif, L = 0.3144
+D1032: drif, L = 0.0844
+D1033: drif, L = 0.184
+D1034: drif, L = 0.184
+D1035: drif, L = 0.504
+D1036: drif, L = 0.26226
+D1037: drif, L = 0.08924
+D1038: drif, L = 0.2605
+D1039: drif, L = 0.716
+D1040: drif, L = 0.36634
+D1041: drif, L = 0.21366
+D1042: drif, L = 0.0896
+D1043: drif, L = 0.0764
+D1044: drif, L = 0.186
+D1045: drif, L = 0.184
+D1046: drif, L = 0.5785
+D1047: drif, L = 0.2235
+D1048: drif, L = 0.08059
+D1049: drif, L = 0.08541
+D1050: drif, L = 0.4629
+D1051: drif, L = 0.52485
+D1052: drif, L = 0.07175
+D1053: drif, L = 0.381
+D1054: drif, L = 0.0872
+D1055: drif, L = 0.63809
+D1056: drif, L = 0.33421
+D1057: drif, L = 0.085
+D1058: drif, L = 0.081
+D1059: drif, L = 0.1485
+D1060: drif, L = 0.4535
+D1061: drif, L = 0.184
+D1062: drif, L = 0.186
+D1063: drif, L = 0.07602
+D1064: drif, L = 0.08998
+D1065: drif, L = 0.3985
+D1066: drif, L = 0.1815
+D1067: drif, L = 0.601
+D1068: drif, L = 0.3755
+D1069: drif, L = 0.2015
+D1070: drif, L = 0.2552
+D1071: drif, L = 0.3144
+D1072: drif, L = 0.0844
+D1073: drif, L = 0.184
+D1074: drif, L = 0.184
+D1075: drif, L = 0.504
+D1076: drif, L = 0.26226
+D1077: drif, L = 0.08924
+D1078: drif, L = 0.2605
+D1079: drif, L = 0.716
+D1080: drif, L = 0.591
+D1081: drif, L = 0.07822
+D1082: drif, L = 0.08778
+D1083: drif, L = 0.2575
+D1084: drif, L = 0.3021
+D1085: drif, L = 0.244
+D1086: drif, L = 0.23125
+D1087: drif, L = 0.23475
+D1088: drif, L = 0.0783
+D1089: drif, L = 0.0877
+D1090: drif, L = 0.46852
+D1091: drif, L = 5.79716
+D1092: drif, L = 0.33432
+D1093: drif, L = 0.09
+D1094: drif, L = 0.076
+D1095: drif, L = 0.23475
+D1096: drif, L = 0.23125
+D1097: drif, L = 0.244
+D1098: drif, L = 0.3021
+D1099: drif, L = 0.2575
+D1100: drif, L = 0.09008
+D1101: drif, L = 0.07592
+D1102: drif, L = 0.591
+D1103: drif, L = 0.501
+D1104: drif, L = 0.2755
+D1105: drif, L = 0.2015
+D1106: drif, L = 0.2552
+D1107: drif, L = 0.3144
+D1108: drif, L = 0.0844
+D1109: drif, L = 0.184
+D1110: drif, L = 0.184
+D1111: drif, L = 0.504
+D1112: drif, L = 0.26226
+D1113: drif, L = 0.08924
+D1114: drif, L = 0.2605
+D1115: drif, L = 0.716
+D1116: drif, L = 0.36634
+D1117: drif, L = 0.21366
+D1118: drif, L = 0.0896
+D1119: drif, L = 0.0764
+D1120: drif, L = 0.186
+D1121: drif, L = 0.184
+D1122: drif, L = 0.5785
+D1123: drif, L = 0.2235
+D1124: drif, L = 0.08059
+D1125: drif, L = 0.08541
+D1126: drif, L = 0.4629
+D1127: drif, L = 4.1871
+dw100g1c08d: UKICKMAP,L=3.4,FIELD_FACTOR=0.707106781186548,&
+ INPUT_FILE="W100_DF_asbuilt.sdds",N_KICKS=34,&
+ PERIODS=34,KREF=23.7686
+dw100g1c08u: UKICKMAP,L=3.4,FIELD_FACTOR=0.707106781186548,&
+ INPUT_FILE="W100_DF_asbuilt.sdds",N_KICKS=34,&
+ PERIODS=34,KREF=23.7686
+dw100g1c18d: UKICKMAP,L=3.4,FIELD_FACTOR=0.707106781186548,&
+ INPUT_FILE="W100_DF_asbuilt.sdds",N_KICKS=34,&
+ PERIODS=34,KREF=23.7686
+dw100g1c18u: UKICKMAP,L=3.4,FIELD_FACTOR=0.707106781186548,&
+ INPUT_FILE="W100_DF_asbuilt.sdds",N_KICKS=34,&
+ PERIODS=34,KREF=23.7686
+dw100g1c28d: UKICKMAP,L=3.4,FIELD_FACTOR=0.707106781186548,&
+ INPUT_FILE="W100_DF_asbuilt.sdds",N_KICKS=34,&
+ PERIODS=34,KREF=23.7686
+dw100g1c28u: UKICKMAP,L=3.4,FIELD_FACTOR=0.707106781186548,&
+ INPUT_FILE="W100_DF_asbuilt.sdds",N_KICKS=34,&
+ PERIODS=34,KREF=23.7686
+ph1g2c02a: moni, L = 0
+ph1g2c04a: moni, L = 0
+ph1g2c06a: moni, L = 0
+ph1g2c08a: moni, L = 0
+ph1g2c10a: moni, L = 0
+ph1g2c12a: moni, L = 0
+ph1g2c14a: moni, L = 0
+ph1g2c16a: moni, L = 0
+ph1g2c18a: moni, L = 0
+ph1g2c20a: moni, L = 0
+ph1g2c22a: moni, L = 0
+ph1g2c24a: moni, L = 0
+ph1g2c26a: moni, L = 0
+ph1g2c28a: moni, L = 0
+ph1g2c30a: moni, L = 0
+ph1g6c01b: moni, L = 0
+ph1g6c03b: moni, L = 0
+ph1g6c05b: moni, L = 0
+ph1g6c07b: moni, L = 0
+ph1g6c09b: moni, L = 0
+ph1g6c11b: moni, L = 0
+ph1g6c13b: moni, L = 0
+ph1g6c15b: moni, L = 0
+ph1g6c17b: moni, L = 0
+ph1g6c19b: moni, L = 0
+ph1g6c21b: moni, L = 0
+ph1g6c23b: moni, L = 0
+ph1g6c25b: moni, L = 0
+ph1g6c27b: moni, L = 0
+ph1g6c29b: moni, L = 0
+ph2g2c02a: moni, L = 0
+ph2g2c04a: moni, L = 0
+ph2g2c06a: moni, L = 0
+ph2g2c08a: moni, L = 0
+ph2g2c10a: moni, L = 0
+ph2g2c12a: moni, L = 0
+ph2g2c14a: moni, L = 0
+ph2g2c16a: moni, L = 0
+ph2g2c18a: moni, L = 0
+ph2g2c20a: moni, L = 0
+ph2g2c22a: moni, L = 0
+ph2g2c24a: moni, L = 0
+ph2g2c26a: moni, L = 0
+ph2g2c28a: moni, L = 0
+ph2g2c30a: moni, L = 0
+ph2g6c01b: moni, L = 0
+ph2g6c03b: moni, L = 0
+ph2g6c05b: moni, L = 0
+ph2g6c07b: moni, L = 0
+ph2g6c09b: moni, L = 0
+ph2g6c11b: moni, L = 0
+ph2g6c13b: moni, L = 0
+ph2g6c15b: moni, L = 0
+ph2g6c17b: moni, L = 0
+ph2g6c19b: moni, L = 0
+ph2g6c21b: moni, L = 0
+ph2g6c23b: moni, L = 0
+ph2g6c25b: moni, L = 0
+ph2g6c27b: moni, L = 0
+ph2g6c29b: moni, L = 0
+pl1g2c01a: moni, L = 0
+pl1g2c03a: moni, L = 0
+pl1g2c05a: moni, L = 0
+pl1g2c07a: moni, L = 0
+pl1g2c09a: moni, L = 0
+pl1g2c11a: moni, L = 0
+pl1g2c13a: moni, L = 0
+pl1g2c15a: moni, L = 0
+pl1g2c17a: moni, L = 0
+pl1g2c19a: moni, L = 0
+pl1g2c21a: moni, L = 0
+pl1g2c23a: moni, L = 0
+pl1g2c25a: moni, L = 0
+pl1g2c27a: moni, L = 0
+pl1g2c29a: moni, L = 0
+pl1g6c02b: moni, L = 0
+pl1g6c04b: moni, L = 0
+pl1g6c06b: moni, L = 0
+pl1g6c08b: moni, L = 0
+pl1g6c10b: moni, L = 0
+pl1g6c12b: moni, L = 0
+pl1g6c14b: moni, L = 0
+pl1g6c16b: moni, L = 0
+pl1g6c18b: moni, L = 0
+pl1g6c20b: moni, L = 0
+pl1g6c22b: moni, L = 0
+pl1g6c24b: moni, L = 0
+pl1g6c26b: moni, L = 0
+pl1g6c28b: moni, L = 0
+pl1g6c30b: moni, L = 0
+pl2g2c01a: moni, L = 0
+pl2g2c03a: moni, L = 0
+pl2g2c05a: moni, L = 0
+pl2g2c07a: moni, L = 0
+pl2g2c09a: moni, L = 0
+pl2g2c11a: moni, L = 0
+pl2g2c13a: moni, L = 0
+pl2g2c15a: moni, L = 0
+pl2g2c17a: moni, L = 0
+pl2g2c19a: moni, L = 0
+pl2g2c21a: moni, L = 0
+pl2g2c23a: moni, L = 0
+pl2g2c25a: moni, L = 0
+pl2g2c27a: moni, L = 0
+pl2g2c29a: moni, L = 0
+pl2g6c02b: moni, L = 0
+pl2g6c04b: moni, L = 0
+pl2g6c06b: moni, L = 0
+pl2g6c08b: moni, L = 0
+pl2g6c10b: moni, L = 0
+pl2g6c12b: moni, L = 0
+pl2g6c14b: moni, L = 0
+pl2g6c16b: moni, L = 0
+pl2g6c18b: moni, L = 0
+pl2g6c20b: moni, L = 0
+pl2g6c22b: moni, L = 0
+pl2g6c24b: moni, L = 0
+pl2g6c26b: moni, L = 0
+pl2g6c28b: moni, L = 0
+pl2g6c30b: moni, L = 0
+pm1g4c01a: moni, L = 0
+pm1g4c01b: moni, L = 0
+pm1g4c02a: moni, L = 0
+pm1g4c02b: moni, L = 0
+pm1g4c03a: moni, L = 0
+pm1g4c03b: moni, L = 0
+pm1g4c04a: moni, L = 0
+pm1g4c04b: moni, L = 0
+pm1g4c05a: moni, L = 0
+pm1g4c05b: moni, L = 0
+pm1g4c06a: moni, L = 0
+pm1g4c06b: moni, L = 0
+pm1g4c07a: moni, L = 0
+pm1g4c07b: moni, L = 0
+pm1g4c08a: moni, L = 0
+pm1g4c08b: moni, L = 0
+pm1g4c09a: moni, L = 0
+pm1g4c09b: moni, L = 0
+pm1g4c10a: moni, L = 0
+pm1g4c10b: moni, L = 0
+pm1g4c11a: moni, L = 0
+pm1g4c11b: moni, L = 0
+pm1g4c12a: moni, L = 0
+pm1g4c12b: moni, L = 0
+pm1g4c13a: moni, L = 0
+pm1g4c13b: moni, L = 0
+pm1g4c14a: moni, L = 0
+pm1g4c14b: moni, L = 0
+pm1g4c15a: moni, L = 0
+pm1g4c15b: moni, L = 0
+pm1g4c16a: moni, L = 0
+pm1g4c16b: moni, L = 0
+pm1g4c17a: moni, L = 0
+pm1g4c17b: moni, L = 0
+pm1g4c18a: moni, L = 0
+pm1g4c18b: moni, L = 0
+pm1g4c19a: moni, L = 0
+pm1g4c19b: moni, L = 0
+pm1g4c20a: moni, L = 0
+pm1g4c20b: moni, L = 0
+pm1g4c21a: moni, L = 0
+pm1g4c21b: moni, L = 0
+pm1g4c22a: moni, L = 0
+pm1g4c22b: moni, L = 0
+pm1g4c23a: moni, L = 0
+pm1g4c23b: moni, L = 0
+pm1g4c24a: moni, L = 0
+pm1g4c24b: moni, L = 0
+pm1g4c25a: moni, L = 0
+pm1g4c25b: moni, L = 0
+pm1g4c26a: moni, L = 0
+pm1g4c26b: moni, L = 0
+pm1g4c27a: moni, L = 0
+pm1g4c27b: moni, L = 0
+pm1g4c28a: moni, L = 0
+pm1g4c28b: moni, L = 0
+pm1g4c29a: moni, L = 0
+pm1g4c29b: moni, L = 0
+pm1g4c30a: moni, L = 0
+pm1g4c30b: moni, L = 0
+qh1g2c02a: kquad, L = 0.268, K1 =     -0.57740115
+qh1g2c04a: kquad, L = 0.268, K1 =     -0.57740115
+qh1g2c06a: kquad, L = 0.268, K1 =     -0.57740115
+qh1g2c08a: kquad, L = 0.268, K1 =     -0.64424092
+qh1g2c10a: kquad, L = 0.268, K1 =     -0.57740115
+qh1g2c12a: kquad, L = 0.268, K1 =     -0.57740115
+qh1g2c14a: kquad, L = 0.268, K1 =     -0.57740115
+qh1g2c16a: kquad, L = 0.268, K1 =     -0.57740115
+qh1g2c18a: kquad, L = 0.268, K1 =     -0.64424092
+qh1g2c20a: kquad, L = 0.268, K1 =     -0.57740115
+qh1g2c22a: kquad, L = 0.268, K1 =     -0.57740115
+qh1g2c24a: kquad, L = 0.268, K1 =     -0.57740115
+qh1g2c26a: kquad, L = 0.268, K1 =     -0.57740115
+qh1g2c28a: kquad, L = 0.268, K1 =     -0.64424092
+qh1g2c30a: kquad, L = 0.268, K1 =     -0.57740115
+qh1g6c01b: kquad, L = 0.268, K1 =     -0.57740115
+qh1g6c03b: kquad, L = 0.268, K1 =     -0.57740115
+qh1g6c05b: kquad, L = 0.268, K1 =     -0.57740115
+qh1g6c07b: kquad, L = 0.268, K1 =     -0.64424092
+qh1g6c09b: kquad, L = 0.268, K1 =     -0.57740115
+qh1g6c11b: kquad, L = 0.268, K1 =     -0.57740115
+qh1g6c13b: kquad, L = 0.268, K1 =     -0.57740115
+qh1g6c15b: kquad, L = 0.268, K1 =     -0.57740115
+qh1g6c17b: kquad, L = 0.268, K1 =     -0.64424092
+qh1g6c19b: kquad, L = 0.268, K1 =     -0.57740115
+qh1g6c21b: kquad, L = 0.268, K1 =     -0.57740115
+qh1g6c23b: kquad, L = 0.268, K1 =     -0.57740115
+qh1g6c25b: kquad, L = 0.268, K1 =     -0.57740115
+qh1g6c27b: kquad, L = 0.268, K1 =     -0.64424092
+qh1g6c29b: kquad, L = 0.268, K1 =     -0.57740115
+qh2g2c02a: kquad, L = 0.46, K1 =      1.40523703
+qh2g2c04a: kquad, L = 0.46, K1 =      1.40523703
+qh2g2c06a: kquad, L = 0.46, K1 =      1.40523703
+qh2g2c08a: kquad, L = 0.46, K1 =      1.44094049
+qh2g2c10a: kquad, L = 0.46, K1 =      1.40523703
+qh2g2c12a: kquad, L = 0.46, K1 =      1.40523703
+qh2g2c14a: kquad, L = 0.46, K1 =      1.40523703
+qh2g2c16a: kquad, L = 0.46, K1 =      1.40523703
+qh2g2c18a: kquad, L = 0.46, K1 =      1.44094049
+qh2g2c20a: kquad, L = 0.46, K1 =      1.40523703
+qh2g2c22a: kquad, L = 0.46, K1 =      1.40523703
+qh2g2c24a: kquad, L = 0.46, K1 =      1.40523703
+qh2g2c26a: kquad, L = 0.46, K1 =      1.40523703
+qh2g2c28a: kquad, L = 0.46, K1 =      1.44094049
+qh2g2c30a: kquad, L = 0.46, K1 =      1.40523703
+qh2g6c01b: kquad, L = 0.46, K1 =      1.40523703
+qh2g6c03b: kquad, L = 0.46, K1 =      1.40523703
+qh2g6c05b: kquad, L = 0.46, K1 =      1.40523703
+qh2g6c07b: kquad, L = 0.46, K1 =      1.44094049
+qh2g6c09b: kquad, L = 0.46, K1 =      1.40523703
+qh2g6c11b: kquad, L = 0.46, K1 =      1.40523703
+qh2g6c13b: kquad, L = 0.46, K1 =      1.40523703
+qh2g6c15b: kquad, L = 0.46, K1 =      1.40523703
+qh2g6c17b: kquad, L = 0.46, K1 =      1.44094049
+qh2g6c19b: kquad, L = 0.46, K1 =      1.40523703
+qh2g6c21b: kquad, L = 0.46, K1 =      1.40523703
+qh2g6c23b: kquad, L = 0.46, K1 =      1.40523703
+qh2g6c25b: kquad, L = 0.46, K1 =      1.40523703
+qh2g6c27b: kquad, L = 0.46, K1 =      1.44094049
+qh2g6c29b: kquad, L = 0.46, K1 =      1.40523703
+qh3g2c02a: kquad, L = 0.268, K1 =     -1.74830674
+qh3g2c04a: kquad, L = 0.268, K1 =     -1.74830674
+qh3g2c06a: kquad, L = 0.268, K1 =     -1.74830674
+qh3g2c08a: kquad, L = 0.268, K1 =     -1.76910537
+qh3g2c10a: kquad, L = 0.268, K1 =     -1.74830674
+qh3g2c12a: kquad, L = 0.268, K1 =     -1.74830674
+qh3g2c14a: kquad, L = 0.268, K1 =     -1.74830674
+qh3g2c16a: kquad, L = 0.268, K1 =     -1.74830674
+qh3g2c18a: kquad, L = 0.268, K1 =     -1.76910537
+qh3g2c20a: kquad, L = 0.268, K1 =     -1.74830674
+qh3g2c22a: kquad, L = 0.268, K1 =     -1.74830674
+qh3g2c24a: kquad, L = 0.268, K1 =     -1.74830674
+qh3g2c26a: kquad, L = 0.268, K1 =     -1.74830674
+qh3g2c28a: kquad, L = 0.268, K1 =     -1.76910537
+qh3g2c30a: kquad, L = 0.268, K1 =     -1.74830674
+qh3g6c01b: kquad, L = 0.268, K1 =     -1.74830674
+qh3g6c03b: kquad, L = 0.268, K1 =     -1.74830674
+qh3g6c05b: kquad, L = 0.268, K1 =     -1.74830674
+qh3g6c07b: kquad, L = 0.268, K1 =     -1.76910537
+qh3g6c09b: kquad, L = 0.268, K1 =     -1.74830674
+qh3g6c11b: kquad, L = 0.268, K1 =     -1.74830674
+qh3g6c13b: kquad, L = 0.268, K1 =     -1.74830674
+qh3g6c15b: kquad, L = 0.268, K1 =     -1.74830674
+qh3g6c17b: kquad, L = 0.268, K1 =     -1.76910537
+qh3g6c19b: kquad, L = 0.268, K1 =     -1.74830674
+qh3g6c21b: kquad, L = 0.268, K1 =     -1.74830674
+qh3g6c23b: kquad, L = 0.268, K1 =     -1.74830674
+qh3g6c25b: kquad, L = 0.268, K1 =     -1.74830674
+qh3g6c27b: kquad, L = 0.268, K1 =     -1.76910537
+qh3g6c29b: kquad, L = 0.268, K1 =     -1.74830674
+ql1g2c01a: kquad, L = 0.268, K1 =     -1.58486031
+ql1g2c03a: kquad, L = 0.268, K1 =     -1.58486031
+ql1g2c05a: kquad, L = 0.268, K1 =     -1.58486031
+ql1g2c07a: kquad, L = 0.268, K1 =     -1.58486031
+ql1g2c09a: kquad, L = 0.268, K1 =     -1.58486031
+ql1g2c11a: kquad, L = 0.268, K1 =     -1.58486031
+ql1g2c13a: kquad, L = 0.268, K1 =     -1.58486031
+ql1g2c15a: kquad, L = 0.268, K1 =     -1.58486031
+ql1g2c17a: kquad, L = 0.268, K1 =     -1.58486031
+ql1g2c19a: kquad, L = 0.268, K1 =     -1.58486031
+ql1g2c21a: kquad, L = 0.268, K1 =     -1.58486031
+ql1g2c23a: kquad, L = 0.268, K1 =     -1.58486031
+ql1g2c25a: kquad, L = 0.268, K1 =     -1.58486031
+ql1g2c27a: kquad, L = 0.268, K1 =     -1.58486031
+ql1g2c29a: kquad, L = 0.268, K1 =     -1.58486031
+ql1g6c02b: kquad, L = 0.268, K1 =     -1.58486031
+ql1g6c04b: kquad, L = 0.268, K1 =     -1.58486031
+ql1g6c06b: kquad, L = 0.268, K1 =     -1.58486031
+ql1g6c08b: kquad, L = 0.268, K1 =     -1.58486031
+ql1g6c10b: kquad, L = 0.268, K1 =     -1.58486031
+ql1g6c12b: kquad, L = 0.268, K1 =     -1.58486031
+ql1g6c14b: kquad, L = 0.268, K1 =     -1.58486031
+ql1g6c16b: kquad, L = 0.268, K1 =     -1.58486031
+ql1g6c18b: kquad, L = 0.268, K1 =     -1.58486031
+ql1g6c20b: kquad, L = 0.268, K1 =     -1.58486031
+ql1g6c22b: kquad, L = 0.268, K1 =     -1.58486031
+ql1g6c24b: kquad, L = 0.268, K1 =     -1.58486031
+ql1g6c26b: kquad, L = 0.268, K1 =     -1.58486031
+ql1g6c28b: kquad, L = 0.268, K1 =     -1.58486031
+ql1g6c30b: kquad, L = 0.268, K1 =     -1.58486031
+ql2g2c01a: kquad, L = 0.46, K1 =      1.76105228
+ql2g2c03a: kquad, L = 0.46, K1 =      1.76105228
+ql2g2c05a: kquad, L = 0.46, K1 =      1.76105228
+ql2g2c07a: kquad, L = 0.46, K1 =      1.76105228
+ql2g2c09a: kquad, L = 0.46, K1 =      1.76105228
+ql2g2c11a: kquad, L = 0.46, K1 =      1.76105228
+ql2g2c13a: kquad, L = 0.46, K1 =      1.76105228
+ql2g2c15a: kquad, L = 0.46, K1 =      1.76105228
+ql2g2c17a: kquad, L = 0.46, K1 =      1.76105228
+ql2g2c19a: kquad, L = 0.46, K1 =      1.76105228
+ql2g2c21a: kquad, L = 0.46, K1 =      1.76105228
+ql2g2c23a: kquad, L = 0.46, K1 =      1.76105228
+ql2g2c25a: kquad, L = 0.46, K1 =      1.76105228
+ql2g2c27a: kquad, L = 0.46, K1 =      1.76105228
+ql2g2c29a: kquad, L = 0.46, K1 =      1.76105228
+ql2g6c02b: kquad, L = 0.46, K1 =      1.76105228
+ql2g6c04b: kquad, L = 0.46, K1 =      1.76105228
+ql2g6c06b: kquad, L = 0.46, K1 =      1.76105228
+ql2g6c08b: kquad, L = 0.46, K1 =      1.76105228
+ql2g6c10b: kquad, L = 0.46, K1 =      1.76105228
+ql2g6c12b: kquad, L = 0.46, K1 =      1.76105228
+ql2g6c14b: kquad, L = 0.46, K1 =      1.76105228
+ql2g6c16b: kquad, L = 0.46, K1 =      1.76105228
+ql2g6c18b: kquad, L = 0.46, K1 =      1.76105228
+ql2g6c20b: kquad, L = 0.46, K1 =      1.76105228
+ql2g6c22b: kquad, L = 0.46, K1 =      1.76105228
+ql2g6c24b: kquad, L = 0.46, K1 =      1.76105228
+ql2g6c26b: kquad, L = 0.46, K1 =      1.76105228
+ql2g6c28b: kquad, L = 0.46, K1 =      1.76105228
+ql2g6c30b: kquad, L = 0.46, K1 =      1.76105228
+ql3g2c01a: kquad, L = 0.268, K1 =     -1.53015105
+ql3g2c03a: kquad, L = 0.268, K1 =     -1.53015105
+ql3g2c05a: kquad, L = 0.268, K1 =     -1.53015105
+ql3g2c07a: kquad, L = 0.268, K1 =     -1.53015105
+ql3g2c09a: kquad, L = 0.268, K1 =     -1.53015105
+ql3g2c11a: kquad, L = 0.268, K1 =     -1.53015105
+ql3g2c13a: kquad, L = 0.268, K1 =     -1.53015105
+ql3g2c15a: kquad, L = 0.268, K1 =     -1.53015105
+ql3g2c17a: kquad, L = 0.268, K1 =     -1.53015105
+ql3g2c19a: kquad, L = 0.268, K1 =     -1.53015105
+ql3g2c21a: kquad, L = 0.268, K1 =     -1.53015105
+ql3g2c23a: kquad, L = 0.268, K1 =     -1.53015105
+ql3g2c25a: kquad, L = 0.268, K1 =     -1.53015105
+ql3g2c27a: kquad, L = 0.268, K1 =     -1.53015105
+ql3g2c29a: kquad, L = 0.268, K1 =     -1.53015105
+ql3g6c02b: kquad, L = 0.268, K1 =     -1.53015105
+ql3g6c04b: kquad, L = 0.268, K1 =     -1.53015105
+ql3g6c06b: kquad, L = 0.268, K1 =     -1.53015105
+ql3g6c08b: kquad, L = 0.268, K1 =     -1.53015105
+ql3g6c10b: kquad, L = 0.268, K1 =     -1.53015105
+ql3g6c12b: kquad, L = 0.268, K1 =     -1.53015105
+ql3g6c14b: kquad, L = 0.268, K1 =     -1.53015105
+ql3g6c16b: kquad, L = 0.268, K1 =     -1.53015105
+ql3g6c18b: kquad, L = 0.268, K1 =     -1.53015105
+ql3g6c20b: kquad, L = 0.268, K1 =     -1.53015105
+ql3g6c22b: kquad, L = 0.268, K1 =     -1.53015105
+ql3g6c24b: kquad, L = 0.268, K1 =     -1.53015105
+ql3g6c26b: kquad, L = 0.268, K1 =     -1.53015105
+ql3g6c28b: kquad, L = 0.268, K1 =     -1.53015105
+ql3g6c30b: kquad, L = 0.268, K1 =     -1.53015105
+qm1g4c01a: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c01b: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c02a: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c02b: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c03a: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c03b: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c04a: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c04b: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c05a: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c05b: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c06a: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c06b: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c07a: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c07b: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c08a: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c08b: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c09a: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c09b: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c10a: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c10b: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c11a: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c11b: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c12a: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c12b: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c13a: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c13b: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c14a: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c14b: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c15a: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c15b: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c16a: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c16b: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c17a: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c17b: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c18a: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c18b: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c19a: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c19b: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c20a: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c20b: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c21a: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c21b: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c22a: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c22b: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c23a: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c23b: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c24a: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c24b: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c25a: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c25b: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c26a: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c26b: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c27a: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c27b: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c28a: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c28b: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c29a: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c29b: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c30a: kquad, L = 0.247, K1 =     -0.81223482
+qm1g4c30b: kquad, L = 0.247, K1 =     -0.81223482
+qm2g4c01a: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c01b: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c02a: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c02b: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c03a: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c03b: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c04a: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c04b: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c05a: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c05b: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c06a: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c06b: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c07a: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c07b: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c08a: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c08b: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c09a: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c09b: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c10a: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c10b: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c11a: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c11b: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c12a: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c12b: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c13a: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c13b: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c14a: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c14b: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c15a: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c15b: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c16a: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c16b: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c17a: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c17b: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c18a: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c18b: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c19a: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c19b: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c20a: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c20b: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c21a: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c21b: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c22a: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c22b: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c23a: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c23b: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c24a: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c24b: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c25a: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c25b: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c26a: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c26b: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c27a: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c27b: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c28a: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c28b: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c29a: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c29b: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c30a: kquad, L = 0.282, K1 =      1.22615466
+qm2g4c30b: kquad, L = 0.282, K1 =      1.22615466
+sh1g2c02a: ksext, L = 0.2, K2 =     19.83291210
+sh1g2c04a: ksext, L = 0.2, K2 =     19.83291210
+sh1g2c06a: ksext, L = 0.2, K2 =     19.83291210
+sh1g2c08a: ksext, L = 0.2, K2 =     19.83291210
+sh1g2c10a: ksext, L = 0.2, K2 =     19.83291210
+sh1g2c12a: ksext, L = 0.2, K2 =     19.83291210
+sh1g2c14a: ksext, L = 0.2, K2 =     19.83291210
+sh1g2c16a: ksext, L = 0.2, K2 =     19.83291210
+sh1g2c18a: ksext, L = 0.2, K2 =     19.83291210
+sh1g2c20a: ksext, L = 0.2, K2 =     19.83291210
+sh1g2c22a: ksext, L = 0.2, K2 =     19.83291210
+sh1g2c24a: ksext, L = 0.2, K2 =     19.83291210
+sh1g2c26a: ksext, L = 0.2, K2 =     19.83291210
+sh1g2c28a: ksext, L = 0.2, K2 =     19.83291210
+sh1g2c30a: ksext, L = 0.2, K2 =     19.83291210
+sh1g6c01b: ksext, L = 0.2, K2 =     19.83291210
+sh1g6c03b: ksext, L = 0.2, K2 =     19.83291210
+sh1g6c05b: ksext, L = 0.2, K2 =     19.83291210
+sh1g6c07b: ksext, L = 0.2, K2 =     19.83291210
+sh1g6c09b: ksext, L = 0.2, K2 =     19.83291210
+sh1g6c11b: ksext, L = 0.2, K2 =     19.83291210
+sh1g6c13b: ksext, L = 0.2, K2 =     19.83291210
+sh1g6c15b: ksext, L = 0.2, K2 =     19.83291210
+sh1g6c17b: ksext, L = 0.2, K2 =     19.83291210
+sh1g6c19b: ksext, L = 0.2, K2 =     19.83291210
+sh1g6c21b: ksext, L = 0.2, K2 =     19.83291210
+sh1g6c23b: ksext, L = 0.2, K2 =     19.83291210
+sh1g6c25b: ksext, L = 0.2, K2 =     19.83291210
+sh1g6c27b: ksext, L = 0.2, K2 =     19.83291210
+sh1g6c29b: ksext, L = 0.2, K2 =     19.83291210
+sh3g2c02a: ksext, L = 0.2, K2 =     -5.85510841
+sh3g2c04a: ksext, L = 0.2, K2 =     -5.85510841
+sh3g2c06a: ksext, L = 0.2, K2 =     -5.85510841
+sh3g2c08a: ksext, L = 0.2, K2 =     -5.85510841
+sh3g2c10a: ksext, L = 0.2, K2 =     -5.85510841
+sh3g2c12a: ksext, L = 0.2, K2 =     -5.85510841
+sh3g2c14a: ksext, L = 0.2, K2 =     -5.85510841
+sh3g2c16a: ksext, L = 0.2, K2 =     -5.85510841
+sh3g2c18a: ksext, L = 0.2, K2 =     -5.85510841
+sh3g2c20a: ksext, L = 0.2, K2 =     -5.85510841
+sh3g2c22a: ksext, L = 0.2, K2 =     -5.85510841
+sh3g2c24a: ksext, L = 0.2, K2 =     -5.85510841
+sh3g2c26a: ksext, L = 0.2, K2 =     -5.85510841
+sh3g2c28a: ksext, L = 0.2, K2 =     -5.85510841
+sh3g2c30a: ksext, L = 0.2, K2 =     -5.85510841
+sh3g6c01b: ksext, L = 0.2, K2 =     -5.85510841
+sh3g6c03b: ksext, L = 0.2, K2 =     -5.85510841
+sh3g6c05b: ksext, L = 0.2, K2 =     -5.85510841
+sh3g6c07b: ksext, L = 0.2, K2 =     -5.85510841
+sh3g6c09b: ksext, L = 0.2, K2 =     -5.85510841
+sh3g6c11b: ksext, L = 0.2, K2 =     -5.85510841
+sh3g6c13b: ksext, L = 0.2, K2 =     -5.85510841
+sh3g6c15b: ksext, L = 0.2, K2 =     -5.85510841
+sh3g6c17b: ksext, L = 0.2, K2 =     -5.85510841
+sh3g6c19b: ksext, L = 0.2, K2 =     -5.85510841
+sh3g6c21b: ksext, L = 0.2, K2 =     -5.85510841
+sh3g6c23b: ksext, L = 0.2, K2 =     -5.85510841
+sh3g6c25b: ksext, L = 0.2, K2 =     -5.85510841
+sh3g6c27b: ksext, L = 0.2, K2 =     -5.85510841
+sh3g6c29b: ksext, L = 0.2, K2 =     -5.85510841
+sh4g2c02a: ksext, L = 0.2, K2 =    -15.82090071
+sh4g2c04a: ksext, L = 0.2, K2 =    -15.82090071
+sh4g2c06a: ksext, L = 0.2, K2 =    -15.82090071
+sh4g2c08a: ksext, L = 0.2, K2 =    -15.82090071
+sh4g2c10a: ksext, L = 0.2, K2 =    -15.82090071
+sh4g2c12a: ksext, L = 0.2, K2 =    -15.82090071
+sh4g2c14a: ksext, L = 0.2, K2 =    -15.82090071
+sh4g2c16a: ksext, L = 0.2, K2 =    -15.82090071
+sh4g2c18a: ksext, L = 0.2, K2 =    -15.82090071
+sh4g2c20a: ksext, L = 0.2, K2 =    -15.82090071
+sh4g2c22a: ksext, L = 0.2, K2 =    -15.82090071
+sh4g2c24a: ksext, L = 0.2, K2 =    -15.82090071
+sh4g2c26a: ksext, L = 0.2, K2 =    -15.82090071
+sh4g2c28a: ksext, L = 0.2, K2 =    -15.82090071
+sh4g2c30a: ksext, L = 0.2, K2 =    -15.82090071
+sh4g6c01b: ksext, L = 0.2, K2 =    -15.82090071
+sh4g6c03b: ksext, L = 0.2, K2 =    -15.82090071
+sh4g6c05b: ksext, L = 0.2, K2 =    -15.82090071
+sh4g6c07b: ksext, L = 0.2, K2 =    -15.82090071
+sh4g6c09b: ksext, L = 0.2, K2 =    -15.82090071
+sh4g6c11b: ksext, L = 0.2, K2 =    -15.82090071
+sh4g6c13b: ksext, L = 0.2, K2 =    -15.82090071
+sh4g6c15b: ksext, L = 0.2, K2 =    -15.82090071
+sh4g6c17b: ksext, L = 0.2, K2 =    -15.82090071
+sh4g6c19b: ksext, L = 0.2, K2 =    -15.82090071
+sh4g6c21b: ksext, L = 0.2, K2 =    -15.82090071
+sh4g6c23b: ksext, L = 0.2, K2 =    -15.82090071
+sh4g6c25b: ksext, L = 0.2, K2 =    -15.82090071
+sh4g6c27b: ksext, L = 0.2, K2 =    -15.82090071
+sh4g6c29b: ksext, L = 0.2, K2 =    -15.82090071
+sl1g2c01a: ksext, L = 0.2, K2 =    -13.27160605
+sl1g2c03a: ksext, L = 0.2, K2 =    -13.27160605
+sl1g2c05a: ksext, L = 0.2, K2 =    -13.27160605
+sl1g2c07a: ksext, L = 0.2, K2 =    -13.27160605
+sl1g2c09a: ksext, L = 0.2, K2 =    -13.27160605
+sl1g2c11a: ksext, L = 0.2, K2 =    -13.27160605
+sl1g2c13a: ksext, L = 0.2, K2 =    -13.27160605
+sl1g2c15a: ksext, L = 0.2, K2 =    -13.27160605
+sl1g2c17a: ksext, L = 0.2, K2 =    -13.27160605
+sl1g2c19a: ksext, L = 0.2, K2 =    -13.27160605
+sl1g2c21a: ksext, L = 0.2, K2 =    -13.27160605
+sl1g2c23a: ksext, L = 0.2, K2 =    -13.27160605
+sl1g2c25a: ksext, L = 0.2, K2 =    -13.27160605
+sl1g2c27a: ksext, L = 0.2, K2 =    -13.27160605
+sl1g2c29a: ksext, L = 0.2, K2 =    -13.27160605
+sl1g6c02b: ksext, L = 0.2, K2 =    -13.27160605
+sl1g6c04b: ksext, L = 0.2, K2 =    -13.27160605
+sl1g6c06b: ksext, L = 0.2, K2 =    -13.27160605
+sl1g6c08b: ksext, L = 0.2, K2 =    -13.27160605
+sl1g6c10b: ksext, L = 0.2, K2 =    -13.27160605
+sl1g6c12b: ksext, L = 0.2, K2 =    -13.27160605
+sl1g6c14b: ksext, L = 0.2, K2 =    -13.27160605
+sl1g6c16b: ksext, L = 0.2, K2 =    -13.27160605
+sl1g6c18b: ksext, L = 0.2, K2 =    -13.27160605
+sl1g6c20b: ksext, L = 0.2, K2 =    -13.27160605
+sl1g6c22b: ksext, L = 0.2, K2 =    -13.27160605
+sl1g6c24b: ksext, L = 0.2, K2 =    -13.27160605
+sl1g6c26b: ksext, L = 0.2, K2 =    -13.27160605
+sl1g6c28b: ksext, L = 0.2, K2 =    -13.27160605
+sl1g6c30b: ksext, L = 0.2, K2 =    -13.27160605
+sl2g2c01a: ksext, L = 0.2, K2 =     35.67792145
+sl2g2c03a: ksext, L = 0.2, K2 =     35.67792145
+sl2g2c05a: ksext, L = 0.2, K2 =     35.67792145
+sl2g2c07a: ksext, L = 0.2, K2 =     35.67792145
+sl2g2c09a: ksext, L = 0.2, K2 =     35.67792145
+sl2g2c11a: ksext, L = 0.2, K2 =     35.67792145
+sl2g2c13a: ksext, L = 0.2, K2 =     35.67792145
+sl2g2c15a: ksext, L = 0.2, K2 =     35.67792145
+sl2g2c17a: ksext, L = 0.2, K2 =     35.67792145
+sl2g2c19a: ksext, L = 0.2, K2 =     35.67792145
+sl2g2c21a: ksext, L = 0.2, K2 =     35.67792145
+sl2g2c23a: ksext, L = 0.2, K2 =     35.67792145
+sl2g2c25a: ksext, L = 0.2, K2 =     35.67792145
+sl2g2c27a: ksext, L = 0.2, K2 =     35.67792145
+sl2g2c29a: ksext, L = 0.2, K2 =     35.67792145
+sl2g6c02b: ksext, L = 0.2, K2 =     35.67792145
+sl2g6c04b: ksext, L = 0.2, K2 =     35.67792145
+sl2g6c06b: ksext, L = 0.2, K2 =     35.67792145
+sl2g6c08b: ksext, L = 0.2, K2 =     35.67792145
+sl2g6c10b: ksext, L = 0.2, K2 =     35.67792145
+sl2g6c12b: ksext, L = 0.2, K2 =     35.67792145
+sl2g6c14b: ksext, L = 0.2, K2 =     35.67792145
+sl2g6c16b: ksext, L = 0.2, K2 =     35.67792145
+sl2g6c18b: ksext, L = 0.2, K2 =     35.67792145
+sl2g6c20b: ksext, L = 0.2, K2 =     35.67792145
+sl2g6c22b: ksext, L = 0.2, K2 =     35.67792145
+sl2g6c24b: ksext, L = 0.2, K2 =     35.67792145
+sl2g6c26b: ksext, L = 0.2, K2 =     35.67792145
+sl2g6c28b: ksext, L = 0.2, K2 =     35.67792145
+sl2g6c30b: ksext, L = 0.2, K2 =     35.67792145
+sl3g2c01a: ksext, L = 0.2, K2 =    -29.46086061
+sl3g2c03a: ksext, L = 0.2, K2 =    -29.46086061
+sl3g2c05a: ksext, L = 0.2, K2 =    -29.46086061
+sl3g2c07a: ksext, L = 0.2, K2 =    -29.46086061
+sl3g2c09a: ksext, L = 0.2, K2 =    -29.46086061
+sl3g2c11a: ksext, L = 0.2, K2 =    -29.46086061
+sl3g2c13a: ksext, L = 0.2, K2 =    -29.46086061
+sl3g2c15a: ksext, L = 0.2, K2 =    -29.46086061
+sl3g2c17a: ksext, L = 0.2, K2 =    -29.46086061
+sl3g2c19a: ksext, L = 0.2, K2 =    -29.46086061
+sl3g2c21a: ksext, L = 0.2, K2 =    -29.46086061
+sl3g2c23a: ksext, L = 0.2, K2 =    -29.46086061
+sl3g2c25a: ksext, L = 0.2, K2 =    -29.46086061
+sl3g2c27a: ksext, L = 0.2, K2 =    -29.46086061
+sl3g2c29a: ksext, L = 0.2, K2 =    -29.46086061
+sl3g6c02b: ksext, L = 0.2, K2 =    -29.46086061
+sl3g6c04b: ksext, L = 0.2, K2 =    -29.46086061
+sl3g6c06b: ksext, L = 0.2, K2 =    -29.46086061
+sl3g6c08b: ksext, L = 0.2, K2 =    -29.46086061
+sl3g6c10b: ksext, L = 0.2, K2 =    -29.46086061
+sl3g6c12b: ksext, L = 0.2, K2 =    -29.46086061
+sl3g6c14b: ksext, L = 0.2, K2 =    -29.46086061
+sl3g6c16b: ksext, L = 0.2, K2 =    -29.46086061
+sl3g6c18b: ksext, L = 0.2, K2 =    -29.46086061
+sl3g6c20b: ksext, L = 0.2, K2 =    -29.46086061
+sl3g6c22b: ksext, L = 0.2, K2 =    -29.46086061
+sl3g6c24b: ksext, L = 0.2, K2 =    -29.46086061
+sl3g6c26b: ksext, L = 0.2, K2 =    -29.46086061
+sl3g6c28b: ksext, L = 0.2, K2 =    -29.46086061
+sl3g6c30b: ksext, L = 0.2, K2 =    -29.46086061
+sm1g4c01a: ksext, L = 0.2, K2 =    -23.68063424
+sm1g4c01b: ksext, L = 0.2, K2 =    -25.94603546
+sm1g4c02a: ksext, L = 0.2, K2 =    -23.68063424
+sm1g4c02b: ksext, L = 0.2, K2 =    -25.94603546
+sm1g4c03a: ksext, L = 0.2, K2 =    -23.68063424
+sm1g4c03b: ksext, L = 0.2, K2 =    -25.94603546
+sm1g4c04a: ksext, L = 0.2, K2 =    -23.68063424
+sm1g4c04b: ksext, L = 0.2, K2 =    -25.94603546
+sm1g4c05a: ksext, L = 0.2, K2 =    -23.68063424
+sm1g4c05b: ksext, L = 0.2, K2 =    -25.94603546
+sm1g4c06a: ksext, L = 0.2, K2 =    -23.68063424
+sm1g4c06b: ksext, L = 0.2, K2 =    -25.94603546
+sm1g4c07a: ksext, L = 0.2, K2 =    -23.68063424
+sm1g4c07b: ksext, L = 0.2, K2 =    -25.94603546
+sm1g4c08a: ksext, L = 0.2, K2 =    -23.68063424
+sm1g4c08b: ksext, L = 0.2, K2 =    -25.94603546
+sm1g4c09a: ksext, L = 0.2, K2 =    -23.68063424
+sm1g4c09b: ksext, L = 0.2, K2 =    -25.94603546
+sm1g4c10a: ksext, L = 0.2, K2 =    -23.68063424
+sm1g4c10b: ksext, L = 0.2, K2 =    -25.94603546
+sm1g4c11a: ksext, L = 0.2, K2 =    -23.68063424
+sm1g4c11b: ksext, L = 0.2, K2 =    -25.94603546
+sm1g4c12a: ksext, L = 0.2, K2 =    -23.68063424
+sm1g4c12b: ksext, L = 0.2, K2 =    -25.94603546
+sm1g4c13a: ksext, L = 0.2, K2 =    -23.68063424
+sm1g4c13b: ksext, L = 0.2, K2 =    -25.94603546
+sm1g4c14a: ksext, L = 0.2, K2 =    -23.68063424
+sm1g4c14b: ksext, L = 0.2, K2 =    -25.94603546
+sm1g4c15a: ksext, L = 0.2, K2 =    -23.68063424
+sm1g4c15b: ksext, L = 0.2, K2 =    -25.94603546
+sm1g4c16a: ksext, L = 0.2, K2 =    -23.68063424
+sm1g4c16b: ksext, L = 0.2, K2 =    -25.94603546
+sm1g4c17a: ksext, L = 0.2, K2 =    -23.68063424
+sm1g4c17b: ksext, L = 0.2, K2 =    -25.94603546
+sm1g4c18a: ksext, L = 0.2, K2 =    -23.68063424
+sm1g4c18b: ksext, L = 0.2, K2 =    -25.94603546
+sm1g4c19a: ksext, L = 0.2, K2 =    -23.68063424
+sm1g4c19b: ksext, L = 0.2, K2 =    -25.94603546
+sm1g4c20a: ksext, L = 0.2, K2 =    -23.68063424
+sm1g4c20b: ksext, L = 0.2, K2 =    -25.94603546
+sm1g4c21a: ksext, L = 0.2, K2 =    -23.68063424
+sm1g4c21b: ksext, L = 0.2, K2 =    -25.94603546
+sm1g4c22a: ksext, L = 0.2, K2 =    -23.68063424
+sm1g4c22b: ksext, L = 0.2, K2 =    -25.94603546
+sm1g4c23a: ksext, L = 0.2, K2 =    -23.68063424
+sm1g4c23b: ksext, L = 0.2, K2 =    -25.94603546
+sm1g4c24a: ksext, L = 0.2, K2 =    -23.68063424
+sm1g4c24b: ksext, L = 0.2, K2 =    -25.94603546
+sm1g4c25a: ksext, L = 0.2, K2 =    -23.68063424
+sm1g4c25b: ksext, L = 0.2, K2 =    -25.94603546
+sm1g4c26a: ksext, L = 0.2, K2 =    -23.68063424
+sm1g4c26b: ksext, L = 0.2, K2 =    -25.94603546
+sm1g4c27a: ksext, L = 0.2, K2 =    -23.68063424
+sm1g4c27b: ksext, L = 0.2, K2 =    -25.94603546
+sm1g4c28a: ksext, L = 0.2, K2 =    -23.68063424
+sm1g4c28b: ksext, L = 0.2, K2 =    -25.94603546
+sm1g4c29a: ksext, L = 0.2, K2 =    -23.68063424
+sm1g4c29b: ksext, L = 0.2, K2 =    -25.94603546
+sm1g4c30a: ksext, L = 0.2, K2 =    -23.68063424
+sm1g4c30b: ksext, L = 0.2, K2 =    -25.94603546
+sm2g4c01b: ksext, L = 0.25, K2 =     28.64315469
+sm2g4c02b: ksext, L = 0.25, K2 =     28.64315469
+sm2g4c03b: ksext, L = 0.25, K2 =     28.64315469
+sm2g4c04b: ksext, L = 0.25, K2 =     28.64315469
+sm2g4c05b: ksext, L = 0.25, K2 =     28.64315469
+sm2g4c06b: ksext, L = 0.25, K2 =     28.64315469
+sm2g4c07b: ksext, L = 0.25, K2 =     28.64315469
+sm2g4c08b: ksext, L = 0.25, K2 =     28.64315469
+sm2g4c09b: ksext, L = 0.25, K2 =     28.64315469
+sm2g4c10b: ksext, L = 0.25, K2 =     28.64315469
+sm2g4c11b: ksext, L = 0.25, K2 =     28.64315469
+sm2g4c12b: ksext, L = 0.25, K2 =     28.64315469
+sm2g4c13b: ksext, L = 0.25, K2 =     28.64315469
+sm2g4c14b: ksext, L = 0.25, K2 =     28.64315469
+sm2g4c15b: ksext, L = 0.25, K2 =     28.64315469
+sm2g4c16b: ksext, L = 0.25, K2 =     28.64315469
+sm2g4c17b: ksext, L = 0.25, K2 =     28.64315469
+sm2g4c18b: ksext, L = 0.25, K2 =     28.64315469
+sm2g4c19b: ksext, L = 0.25, K2 =     28.64315469
+sm2g4c20b: ksext, L = 0.25, K2 =     28.64315469
+sm2g4c21b: ksext, L = 0.25, K2 =     28.64315469
+sm2g4c22b: ksext, L = 0.25, K2 =     28.64315469
+sm2g4c23b: ksext, L = 0.25, K2 =     28.64315469
+sm2g4c24b: ksext, L = 0.25, K2 =     28.64315469
+sm2g4c25b: ksext, L = 0.25, K2 =     28.64315469
+sm2g4c26b: ksext, L = 0.25, K2 =     28.64315469
+sm2g4c27b: ksext, L = 0.25, K2 =     28.64315469
+sm2g4c28b: ksext, L = 0.25, K2 =     28.64315469
+sm2g4c29b: ksext, L = 0.25, K2 =     28.64315469
+sm2g4c30b: ksext, L = 0.25, K2 =     28.64315469
+sqhg2c02a: kquad, L = 0.1, K1 =      0.00000000, tilt =      0.78539816
+sqhg2c04a: kquad, L = 0.1, K1 =      0.00000000, tilt =      0.78539816
+sqhg2c06a: kquad, L = 0.1, K1 =      0.00000000, tilt =      0.78539816
+sqhg2c08a: kquad, L = 0.1, K1 =      0.00000000, tilt =      0.78539816
+sqhg2c10a: kquad, L = 0.1, K1 =      0.00000000, tilt =      0.78539816
+sqhg2c12a: kquad, L = 0.1, K1 =      0.00000000, tilt =      0.78539816
+sqhg2c14a: kquad, L = 0.1, K1 =      0.00000000, tilt =      0.78539816
+sqhg2c16a: kquad, L = 0.1, K1 =      0.00000000, tilt =      0.78539816
+sqhg2c18a: kquad, L = 0.1, K1 =      0.00000000, tilt =      0.78539816
+sqhg2c20a: kquad, L = 0.1, K1 =      0.00000000, tilt =      0.78539816
+sqhg2c22a: kquad, L = 0.1, K1 =      0.00000000, tilt =      0.78539816
+sqhg2c24a: kquad, L = 0.1, K1 =      0.00000000, tilt =      0.78539816
+sqhg2c26a: kquad, L = 0.1, K1 =      0.00000000, tilt =      0.78539816
+sqhg2c28a: kquad, L = 0.1, K1 =      0.00000000, tilt =      0.78539816
+sqhg2c30a: kquad, L = 0.1, K1 =      0.00000000, tilt =      0.78539816
+sqmg4c01a: kquad, L = 0.1, K1 =      0.00000000, tilt =      0.78539816
+sqmg4c03a: kquad, L = 0.1, K1 =      0.00000000, tilt =      0.78539816
+sqmg4c05a: kquad, L = 0.1, K1 =      0.00000000, tilt =      0.78539816
+sqmg4c07a: kquad, L = 0.1, K1 =      0.00000000, tilt =      0.78539816
+sqmg4c09a: kquad, L = 0.1, K1 =      0.00000000, tilt =      0.78539816
+sqmg4c11a: kquad, L = 0.1, K1 =      0.00000000, tilt =      0.78539816
+sqmg4c13a: kquad, L = 0.1, K1 =      0.00000000, tilt =      0.78539816
+sqmg4c15a: kquad, L = 0.1, K1 =      0.00000000, tilt =      0.78539816
+sqmg4c17a: kquad, L = 0.1, K1 =      0.00000000, tilt =      0.78539816
+sqmg4c19a: kquad, L = 0.1, K1 =      0.00000000, tilt =      0.78539816
+sqmg4c21a: kquad, L = 0.1, K1 =      0.00000000, tilt =      0.78539816
+sqmg4c23a: kquad, L = 0.1, K1 =      0.00000000, tilt =      0.78539816
+sqmg4c25a: kquad, L = 0.1, K1 =      0.00000000, tilt =      0.78539816
+sqmg4c27a: kquad, L = 0.1, K1 =      0.00000000, tilt =      0.78539816
+sqmg4c29a: kquad, L = 0.1, K1 =      0.00000000, tilt =      0.78539816
+
+! === Beam line sequence:
+ring: LINE = (D0001, D0002, sh1g2c30a, D0003, ph1g2c30a, &
+  D0004, qh1g2c30a, D0005, sqhg2c30a, sqhg2c30a, D0006, D0007, qh2g2c30a, &
+  D0008, sh3g2c30a, D0009, qh3g2c30a, D0010, ph2g2c30a, D0011, sh4g2c30a, &
+  D0012, D0013, D0014, b1g3c30a, D0015, D0016, qm1g4c30a, D0017, sm1g4c30a, &
+  D0018, D0019, pm1g4c30a, D0020, qm2g4c30a, D0021, sm2g4c30b, D0022, qm2g4c30b, &
+  D0023, D0024, sm1g4c30b, D0025, pm1g4c30b, D0026, qm1g4c30b, D0027, D0028, &
+  b1g5c30b, D0029, ql3g6c30b, D0030, pl2g6c30b, D0031, sl3g6c30b, D0032, &
+  D0033, ql2g6c30b, D0034, sl2g6c30b, D0035, D0036, ql1g6c30b, D0037, pl1g6c30b, &
+  D0038, sl1g6c30b, D0039, D0040, D0041, sl1g2c01a, D0042, pl1g2c01a, D0043, &
+  ql1g2c01a, D0044, D0045, sl2g2c01a, D0046, ql2g2c01a, D0047, D0048, sl3g2c01a, &
+  D0049, pl2g2c01a, D0050, ql3g2c01a, D0051, b1g3c01a, D0052, sqmg4c01a, &
+  sqmg4c01a, D0053, qm1g4c01a, D0054, sm1g4c01a, D0055, D0056, pm1g4c01a, &
+  D0057, qm2g4c01a, D0058, sm2g4c01b, D0059, qm2g4c01b, D0060, D0061, sm1g4c01b, &
+  D0062, pm1g4c01b, D0063, qm1g4c01b, D0064, D0065, D0066, b1g5c01b, D0067, &
+  D0068, sh4g6c01b, D0069, ph2g6c01b, D0070, qh3g6c01b, D0071, sh3g6c01b, &
+  D0072, qh2g6c01b, D0073, D0074, qh1g6c01b, D0075, ph1g6c01b, D0076, sh1g6c01b, &
+  D0077, D0078, D0079, D0080, D0081, sh1g2c02a, D0082, ph1g2c02a, D0083, &
+  qh1g2c02a, D0084, sqhg2c02a, sqhg2c02a, D0085, qh2g2c02a, D0086, sh3g2c02a, &
+  D0087, qh3g2c02a, D0088, ph2g2c02a, D0089, sh4g2c02a, D0090, D0091, b1g3c02a, &
+  D0092, D0093, qm1g4c02a, D0094, sm1g4c02a, D0095, D0096, pm1g4c02a, D0097, &
+  qm2g4c02a, D0098, sm2g4c02b, D0099, qm2g4c02b, D0100, sm1g4c02b, D0101, &
+  pm1g4c02b, D0102, qm1g4c02b, D0103, D0104, b1g5c02b, D0105, ql3g6c02b, &
+  D0106, pl2g6c02b, D0107, sl3g6c02b, D0108, D0109, ql2g6c02b, D0110, sl2g6c02b, &
+  D0111, D0112, ql1g6c02b, D0113, pl1g6c02b, D0114, sl1g6c02b, D0115, D0116, &
+  D0117, D0118, D0119, D0120, D0121, sl1g2c03a, D0122, pl1g2c03a, D0123, &
+  ql1g2c03a, D0124, D0125, sl2g2c03a, D0126, ql2g2c03a, D0127, D0128, sl3g2c03a, &
+  D0129, pl2g2c03a, D0130, ql3g2c03a, D0131, b2g3c03a, D0132, sqmg4c03a, &
+  sqmg4c03a, D0133, qm1g4c03a, D0134, sm1g4c03a, D0135, D0136, pm1g4c03a, &
+  D0137, qm2g4c03a, D0138, sm2g4c03b, D0139, qm2g4c03b, D0140, sm1g4c03b, &
+  D0141, pm1g4c03b, D0142, qm1g4c03b, D0143, D0144, b2g5c03b, D0145, D0146, &
+  sh4g6c03b, D0147, ph2g6c03b, D0148, qh3g6c03b, D0149, sh3g6c03b, D0150, &
+  qh2g6c03b, D0151, D0152, qh1g6c03b, D0153, ph1g6c03b, D0154, sh1g6c03b, &
+  D0155, D0156, D0157, sh1g2c04a, D0158, ph1g2c04a, D0159, qh1g2c04a, D0160, &
+  sqhg2c04a, sqhg2c04a, D0161, qh2g2c04a, D0162, sh3g2c04a, D0163, qh3g2c04a, &
+  D0164, ph2g2c04a, D0165, sh4g2c04a, D0166, D0167, b1g3c04a, D0168, D0169, &
+  qm1g4c04a, D0170, sm1g4c04a, D0171, D0172, pm1g4c04a, D0173, qm2g4c04a, &
+  D0174, sm2g4c04b, D0175, qm2g4c04b, D0176, sm1g4c04b, D0177, pm1g4c04b, &
+  D0178, qm1g4c04b, D0179, D0180, b1g5c04b, D0181, ql3g6c04b, D0182, pl2g6c04b, &
+  D0183, sl3g6c04b, D0184, D0185, ql2g6c04b, D0186, sl2g6c04b, D0187, D0188, &
+  ql1g6c04b, D0189, pl1g6c04b, D0190, sl1g6c04b, D0191, D0192, D0193, D0194, &
+  D0195, D0196, D0197, D0198, sl1g2c05a, D0199, pl1g2c05a, D0200, ql1g2c05a, &
+  D0201, D0202, sl2g2c05a, D0203, ql2g2c05a, D0204, D0205, sl3g2c05a, D0206, &
+  pl2g2c05a, D0207, ql3g2c05a, D0208, b1g3c05a, D0209, sqmg4c05a, sqmg4c05a, &
+  D0210, qm1g4c05a, D0211, sm1g4c05a, D0212, D0213, pm1g4c05a, D0214, qm2g4c05a, &
+  D0215, sm2g4c05b, D0216, qm2g4c05b, D0217, sm1g4c05b, D0218, pm1g4c05b, &
+  D0219, qm1g4c05b, D0220, D0221, b1g5c05b, D0222, D0223, sh4g6c05b, D0224, &
+  ph2g6c05b, D0225, qh3g6c05b, D0226, sh3g6c05b, D0227, qh2g6c05b, D0228, &
+  D0229, qh1g6c05b, D0230, ph1g6c05b, D0231, sh1g6c05b, D0232, D0233, D0234, &
+  sh1g2c06a, D0235, ph1g2c06a, D0236, qh1g2c06a, D0237, sqhg2c06a, sqhg2c06a, &
+  D0238, qh2g2c06a, D0239, sh3g2c06a, D0240, qh3g2c06a, D0241, ph2g2c06a, &
+  D0242, sh4g2c06a, D0243, D0244, b1g3c06a, D0245, D0246, qm1g4c06a, D0247, &
+  sm1g4c06a, D0248, D0249, pm1g4c06a, D0250, qm2g4c06a, D0251, sm2g4c06b, &
+  D0252, qm2g4c06b, D0253, sm1g4c06b, D0254, pm1g4c06b, D0255, qm1g4c06b, &
+  D0256, D0257, b1g5c06b, D0258, ql3g6c06b, D0259, pl2g6c06b, D0260, sl3g6c06b, &
+  D0261, D0262, ql2g6c06b, D0263, sl2g6c06b, D0264, D0265, ql1g6c06b, D0266, &
+  pl1g6c06b, D0267, sl1g6c06b, D0268, D0269, D0270, sl1g2c07a, D0271, pl1g2c07a, &
+  D0272, ql1g2c07a, D0273, D0274, sl2g2c07a, D0275, ql2g2c07a, D0276, D0277, &
+  sl3g2c07a, D0278, pl2g2c07a, D0279, ql3g2c07a, D0280, b1g3c07a, D0281, &
+  sqmg4c07a, sqmg4c07a, D0282, qm1g4c07a, D0283, sm1g4c07a, D0284, D0285, &
+  pm1g4c07a, D0286, qm2g4c07a, D0287, sm2g4c07b, D0288, qm2g4c07b, D0289, &
+  sm1g4c07b, D0290, pm1g4c07b, D0291, qm1g4c07b, D0292, D0293, b1g5c07b, &
+  D0294, D0295, sh4g6c07b, D0296, ph2g6c07b, D0297, qh3g6c07b, D0298, sh3g6c07b, &
+  D0299, qh2g6c07b, D0300, D0301, qh1g6c07b, D0302, ph1g6c07b, D0303, sh1g6c07b, &
+  D0304, D0305, D0306, dw100g1c08u, D0307, dw100g1c08d, D0308, D0309, D0310, &
+  sh1g2c08a, D0311, ph1g2c08a, D0312, qh1g2c08a, D0313, sqhg2c08a, sqhg2c08a, &
+  D0314, qh2g2c08a, D0315, sh3g2c08a, D0316, qh3g2c08a, D0317, ph2g2c08a, &
+  D0318, sh4g2c08a, D0319, D0320, b1g3c08a, D0321, D0322, qm1g4c08a, D0323, &
+  sm1g4c08a, D0324, D0325, pm1g4c08a, D0326, qm2g4c08a, D0327, sm2g4c08b, &
+  D0328, qm2g4c08b, D0329, sm1g4c08b, D0330, pm1g4c08b, D0331, qm1g4c08b, &
+  D0332, D0333, b1g5c08b, D0334, ql3g6c08b, D0335, pl2g6c08b, D0336, sl3g6c08b, &
+  D0337, D0338, ql2g6c08b, D0339, sl2g6c08b, D0340, D0341, ql1g6c08b, D0342, &
+  pl1g6c08b, D0343, sl1g6c08b, D0344, D0345, D0346, sl1g2c09a, D0347, pl1g2c09a, &
+  D0348, ql1g2c09a, D0349, D0350, sl2g2c09a, D0351, ql2g2c09a, D0352, D0353, &
+  sl3g2c09a, D0354, pl2g2c09a, D0355, ql3g2c09a, D0356, b1g3c09a, D0357, &
+  sqmg4c09a, sqmg4c09a, D0358, qm1g4c09a, D0359, sm1g4c09a, D0360, D0361, &
+  pm1g4c09a, D0362, qm2g4c09a, D0363, sm2g4c09b, D0364, qm2g4c09b, D0365, &
+  sm1g4c09b, D0366, pm1g4c09b, D0367, qm1g4c09b, D0368, D0369, b1g5c09b, &
+  D0370, D0371, sh4g6c09b, D0372, ph2g6c09b, D0373, qh3g6c09b, D0374, sh3g6c09b, &
+  D0375, qh2g6c09b, D0376, D0377, qh1g6c09b, D0378, ph1g6c09b, D0379, sh1g6c09b, &
+  D0380, D0381, D0382, D0383, D0384, D0385, D0386, sh1g2c10a, D0387, ph1g2c10a, &
+  D0388, qh1g2c10a, D0389, sqhg2c10a, sqhg2c10a, D0390, qh2g2c10a, D0391, &
+  sh3g2c10a, D0392, qh3g2c10a, D0393, ph2g2c10a, D0394, sh4g2c10a, D0395, &
+  D0396, b1g3c10a, D0397, D0398, qm1g4c10a, D0399, sm1g4c10a, D0400, D0401, &
+  pm1g4c10a, D0402, qm2g4c10a, D0403, sm2g4c10b, D0404, qm2g4c10b, D0405, &
+  sm1g4c10b, D0406, pm1g4c10b, D0407, qm1g4c10b, D0408, D0409, b1g5c10b, &
+  D0410, ql3g6c10b, D0411, pl2g6c10b, D0412, sl3g6c10b, D0413, D0414, ql2g6c10b, &
+  D0415, sl2g6c10b, D0416, D0417, ql1g6c10b, D0418, pl1g6c10b, D0419, sl1g6c10b, &
+  D0420, D0421, D0422, D0423, D0424, D0425, D0426, sl1g2c11a, D0427, pl1g2c11a, &
+  D0428, ql1g2c11a, D0429, D0430, sl2g2c11a, D0431, ql2g2c11a, D0432, D0433, &
+  sl3g2c11a, D0434, pl2g2c11a, D0435, ql3g2c11a, D0436, b1g3c11a, D0437, &
+  sqmg4c11a, sqmg4c11a, D0438, qm1g4c11a, D0439, sm1g4c11a, D0440, D0441, &
+  pm1g4c11a, D0442, qm2g4c11a, D0443, sm2g4c11b, D0444, qm2g4c11b, D0445, &
+  sm1g4c11b, D0446, pm1g4c11b, D0447, qm1g4c11b, D0448, D0449, b1g5c11b, &
+  D0450, D0451, sh4g6c11b, D0452, ph2g6c11b, D0453, qh3g6c11b, D0454, sh3g6c11b, &
+  D0455, qh2g6c11b, D0456, D0457, qh1g6c11b, D0458, ph1g6c11b, D0459, sh1g6c11b, &
+  D0460, D0461, D0462, sh1g2c12a, D0463, ph1g2c12a, D0464, qh1g2c12a, D0465, &
+  sqhg2c12a, sqhg2c12a, D0466, qh2g2c12a, D0467, sh3g2c12a, D0468, qh3g2c12a, &
+  D0469, ph2g2c12a, D0470, sh4g2c12a, D0471, D0472, b1g3c12a, D0473, D0474, &
+  qm1g4c12a, D0475, sm1g4c12a, D0476, D0477, pm1g4c12a, D0478, qm2g4c12a, &
+  D0479, sm2g4c12b, D0480, qm2g4c12b, D0481, sm1g4c12b, D0482, pm1g4c12b, &
+  D0483, qm1g4c12b, D0484, D0485, b1g5c12b, D0486, ql3g6c12b, D0487, pl2g6c12b, &
+  D0488, sl3g6c12b, D0489, D0490, ql2g6c12b, D0491, sl2g6c12b, D0492, D0493, &
+  ql1g6c12b, D0494, pl1g6c12b, D0495, sl1g6c12b, D0496, D0497, D0498, sl1g2c13a, &
+  D0499, pl1g2c13a, D0500, ql1g2c13a, D0501, D0502, sl2g2c13a, D0503, ql2g2c13a, &
+  D0504, D0505, sl3g2c13a, D0506, pl2g2c13a, D0507, ql3g2c13a, D0508, b2g3c13a, &
+  D0509, sqmg4c13a, sqmg4c13a, D0510, qm1g4c13a, D0511, sm1g4c13a, D0512, &
+  D0513, pm1g4c13a, D0514, qm2g4c13a, D0515, sm2g4c13b, D0516, qm2g4c13b, &
+  D0517, sm1g4c13b, D0518, pm1g4c13b, D0519, qm1g4c13b, D0520, D0521, b2g5c13b, &
+  D0522, D0523, sh4g6c13b, D0524, ph2g6c13b, D0525, qh3g6c13b, D0526, sh3g6c13b, &
+  D0527, qh2g6c13b, D0528, D0529, qh1g6c13b, D0530, ph1g6c13b, D0531, sh1g6c13b, &
+  D0532, D0533, D0534, sh1g2c14a, D0535, ph1g2c14a, D0536, qh1g2c14a, D0537, &
+  sqhg2c14a, sqhg2c14a, D0538, qh2g2c14a, D0539, sh3g2c14a, D0540, qh3g2c14a, &
+  D0541, ph2g2c14a, D0542, sh4g2c14a, D0543, D0544, b1g3c14a, D0545, D0546, &
+  qm1g4c14a, D0547, sm1g4c14a, D0548, D0549, pm1g4c14a, D0550, qm2g4c14a, &
+  D0551, sm2g4c14b, D0552, qm2g4c14b, D0553, sm1g4c14b, D0554, pm1g4c14b, &
+  D0555, qm1g4c14b, D0556, D0557, b1g5c14b, D0558, ql3g6c14b, D0559, pl2g6c14b, &
+  D0560, sl3g6c14b, D0561, D0562, ql2g6c14b, D0563, sl2g6c14b, D0564, D0565, &
+  ql1g6c14b, D0566, pl1g6c14b, D0567, sl1g6c14b, D0568, D0569, D0570, sl1g2c15a, &
+  D0571, pl1g2c15a, D0572, ql1g2c15a, D0573, D0574, sl2g2c15a, D0575, ql2g2c15a, &
+  D0576, D0577, sl3g2c15a, D0578, pl2g2c15a, D0579, ql3g2c15a, D0580, b1g3c15a, &
+  D0581, sqmg4c15a, sqmg4c15a, D0582, qm1g4c15a, D0583, sm1g4c15a, D0584, &
+  D0585, pm1g4c15a, D0586, qm2g4c15a, D0587, sm2g4c15b, D0588, qm2g4c15b, &
+  D0589, sm1g4c15b, D0590, pm1g4c15b, D0591, qm1g4c15b, D0592, D0593, b1g5c15b, &
+  D0594, D0595, sh4g6c15b, D0596, ph2g6c15b, D0597, qh3g6c15b, D0598, sh3g6c15b, &
+  D0599, qh2g6c15b, D0600, D0601, qh1g6c15b, D0602, ph1g6c15b, D0603, sh1g6c15b, &
+  D0604, D0605, D0606, sh1g2c16a, D0607, ph1g2c16a, D0608, qh1g2c16a, D0609, &
+  sqhg2c16a, sqhg2c16a, D0610, qh2g2c16a, D0611, sh3g2c16a, D0612, qh3g2c16a, &
+  D0613, ph2g2c16a, D0614, sh4g2c16a, D0615, D0616, b1g3c16a, D0617, D0618, &
+  qm1g4c16a, D0619, sm1g4c16a, D0620, D0621, pm1g4c16a, D0622, qm2g4c16a, &
+  D0623, sm2g4c16b, D0624, qm2g4c16b, D0625, sm1g4c16b, D0626, pm1g4c16b, &
+  D0627, qm1g4c16b, D0628, D0629, b1g5c16b, D0630, ql3g6c16b, D0631, pl2g6c16b, &
+  D0632, sl3g6c16b, D0633, D0634, ql2g6c16b, D0635, sl2g6c16b, D0636, D0637, &
+  ql1g6c16b, D0638, pl1g6c16b, D0639, sl1g6c16b, D0640, D0641, D0642, sl1g2c17a, &
+  D0643, pl1g2c17a, D0644, ql1g2c17a, D0645, D0646, sl2g2c17a, D0647, ql2g2c17a, &
+  D0648, D0649, sl3g2c17a, D0650, pl2g2c17a, D0651, ql3g2c17a, D0652, b1g3c17a, &
+  D0653, sqmg4c17a, sqmg4c17a, D0654, qm1g4c17a, D0655, sm1g4c17a, D0656, &
+  D0657, pm1g4c17a, D0658, qm2g4c17a, D0659, sm2g4c17b, D0660, qm2g4c17b, &
+  D0661, sm1g4c17b, D0662, pm1g4c17b, D0663, qm1g4c17b, D0664, D0665, b1g5c17b, &
+  D0666, D0667, sh4g6c17b, D0668, ph2g6c17b, D0669, qh3g6c17b, D0670, sh3g6c17b, &
+  D0671, qh2g6c17b, D0672, D0673, qh1g6c17b, D0674, ph1g6c17b, D0675, sh1g6c17b, &
+  D0676, D0677, D0678, dw100g1c18u, D0679, dw100g1c18d, D0680, D0681, D0682, &
+  sh1g2c18a, D0683, ph1g2c18a, D0684, qh1g2c18a, D0685, sqhg2c18a, sqhg2c18a, &
+  D0686, qh2g2c18a, D0687, sh3g2c18a, D0688, qh3g2c18a, D0689, ph2g2c18a, &
+  D0690, sh4g2c18a, D0691, D0692, b1g3c18a, D0693, D0694, qm1g4c18a, D0695, &
+  sm1g4c18a, D0696, D0697, pm1g4c18a, D0698, qm2g4c18a, D0699, sm2g4c18b, &
+  D0700, qm2g4c18b, D0701, sm1g4c18b, D0702, pm1g4c18b, D0703, qm1g4c18b, &
+  D0704, D0705, b1g5c18b, D0706, ql3g6c18b, D0707, pl2g6c18b, D0708, sl3g6c18b, &
+  D0709, D0710, ql2g6c18b, D0711, sl2g6c18b, D0712, D0713, ql1g6c18b, D0714, &
+  pl1g6c18b, D0715, sl1g6c18b, D0716, D0717, D0718, sl1g2c19a, D0719, pl1g2c19a, &
+  D0720, ql1g2c19a, D0721, D0722, sl2g2c19a, D0723, ql2g2c19a, D0724, D0725, &
+  sl3g2c19a, D0726, pl2g2c19a, D0727, ql3g2c19a, D0728, b1g3c19a, D0729, &
+  sqmg4c19a, sqmg4c19a, D0730, qm1g4c19a, D0731, sm1g4c19a, D0732, D0733, &
+  pm1g4c19a, D0734, qm2g4c19a, D0735, sm2g4c19b, D0736, qm2g4c19b, D0737, &
+  sm1g4c19b, D0738, pm1g4c19b, D0739, qm1g4c19b, D0740, D0741, b1g5c19b, &
+  D0742, D0743, sh4g6c19b, D0744, ph2g6c19b, D0745, qh3g6c19b, D0746, sh3g6c19b, &
+  D0747, qh2g6c19b, D0748, D0749, qh1g6c19b, D0750, ph1g6c19b, D0751, sh1g6c19b, &
+  D0752, D0753, D0754, sh1g2c20a, D0755, ph1g2c20a, D0756, qh1g2c20a, D0757, &
+  sqhg2c20a, sqhg2c20a, D0758, qh2g2c20a, D0759, sh3g2c20a, D0760, qh3g2c20a, &
+  D0761, ph2g2c20a, D0762, sh4g2c20a, D0763, D0764, b1g3c20a, D0765, D0766, &
+  qm1g4c20a, D0767, sm1g4c20a, D0768, D0769, pm1g4c20a, D0770, qm2g4c20a, &
+  D0771, sm2g4c20b, D0772, qm2g4c20b, D0773, sm1g4c20b, D0774, pm1g4c20b, &
+  D0775, qm1g4c20b, D0776, D0777, b1g5c20b, D0778, ql3g6c20b, D0779, pl2g6c20b, &
+  D0780, sl3g6c20b, D0781, D0782, ql2g6c20b, D0783, sl2g6c20b, D0784, D0785, &
+  ql1g6c20b, D0786, pl1g6c20b, D0787, sl1g6c20b, D0788, D0789, D0790, D0791, &
+  D0792, sl1g2c21a, D0793, pl1g2c21a, D0794, ql1g2c21a, D0795, D0796, sl2g2c21a, &
+  D0797, ql2g2c21a, D0798, D0799, sl3g2c21a, D0800, pl2g2c21a, D0801, ql3g2c21a, &
+  D0802, b1g3c21a, D0803, sqmg4c21a, sqmg4c21a, D0804, qm1g4c21a, D0805, &
+  sm1g4c21a, D0806, D0807, pm1g4c21a, D0808, qm2g4c21a, D0809, sm2g4c21b, &
+  D0810, qm2g4c21b, D0811, sm1g4c21b, D0812, pm1g4c21b, D0813, qm1g4c21b, &
+  D0814, D0815, b1g5c21b, D0816, D0817, sh4g6c21b, D0818, ph2g6c21b, D0819, &
+  qh3g6c21b, D0820, sh3g6c21b, D0821, qh2g6c21b, D0822, D0823, qh1g6c21b, &
+  D0824, ph1g6c21b, D0825, sh1g6c21b, D0826, D0827, D0828, D0829, sh1g2c22a, &
+  D0830, ph1g2c22a, D0831, qh1g2c22a, D0832, sqhg2c22a, sqhg2c22a, D0833, &
+  qh2g2c22a, D0834, sh3g2c22a, D0835, qh3g2c22a, D0836, ph2g2c22a, D0837, &
+  sh4g2c22a, D0838, D0839, b1g3c22a, D0840, D0841, qm1g4c22a, D0842, sm1g4c22a, &
+  D0843, D0844, pm1g4c22a, D0845, qm2g4c22a, D0846, sm2g4c22b, D0847, qm2g4c22b, &
+  D0848, sm1g4c22b, D0849, pm1g4c22b, D0850, qm1g4c22b, D0851, D0852, b1g5c22b, &
+  D0853, ql3g6c22b, D0854, pl2g6c22b, D0855, sl3g6c22b, D0856, D0857, ql2g6c22b, &
+  D0858, sl2g6c22b, D0859, D0860, ql1g6c22b, D0861, pl1g6c22b, D0862, sl1g6c22b, &
+  D0863, D0864, D0865, D0866, D0867, D0868, D0869, D0870, D0871, D0872, sl1g2c23a, &
+  D0873, pl1g2c23a, D0874, ql1g2c23a, D0875, D0876, sl2g2c23a, D0877, ql2g2c23a, &
+  D0878, D0879, sl3g2c23a, D0880, pl2g2c23a, D0881, ql3g2c23a, D0882, b2g3c23a, &
+  D0883, sqmg4c23a, sqmg4c23a, D0884, qm1g4c23a, D0885, sm1g4c23a, D0886, &
+  D0887, pm1g4c23a, D0888, qm2g4c23a, D0889, sm2g4c23b, D0890, qm2g4c23b, &
+  D0891, sm1g4c23b, D0892, pm1g4c23b, D0893, qm1g4c23b, D0894, D0895, b2g5c23b, &
+  D0896, D0897, sh4g6c23b, D0898, ph2g6c23b, D0899, qh3g6c23b, D0900, sh3g6c23b, &
+  D0901, qh2g6c23b, D0902, D0903, qh1g6c23b, D0904, ph1g6c23b, D0905, sh1g6c23b, &
+  D0906, D0907, D0908, sh1g2c24a, D0909, ph1g2c24a, D0910, qh1g2c24a, D0911, &
+  sqhg2c24a, sqhg2c24a, D0912, qh2g2c24a, D0913, sh3g2c24a, D0914, qh3g2c24a, &
+  D0915, ph2g2c24a, D0916, sh4g2c24a, D0917, D0918, b1g3c24a, D0919, D0920, &
+  qm1g4c24a, D0921, sm1g4c24a, D0922, D0923, pm1g4c24a, D0924, qm2g4c24a, &
+  D0925, sm2g4c24b, D0926, qm2g4c24b, D0927, sm1g4c24b, D0928, pm1g4c24b, &
+  D0929, qm1g4c24b, D0930, D0931, b1g5c24b, D0932, ql3g6c24b, D0933, pl2g6c24b, &
+  D0934, sl3g6c24b, D0935, D0936, ql2g6c24b, D0937, sl2g6c24b, D0938, D0939, &
+  ql1g6c24b, D0940, pl1g6c24b, D0941, sl1g6c24b, D0942, D0943, D0944, sl1g2c25a, &
+  D0945, pl1g2c25a, D0946, ql1g2c25a, D0947, D0948, sl2g2c25a, D0949, ql2g2c25a, &
+  D0950, D0951, sl3g2c25a, D0952, pl2g2c25a, D0953, ql3g2c25a, D0954, b1g3c25a, &
+  D0955, sqmg4c25a, sqmg4c25a, D0956, qm1g4c25a, D0957, sm1g4c25a, D0958, &
+  D0959, pm1g4c25a, D0960, qm2g4c25a, D0961, sm2g4c25b, D0962, qm2g4c25b, &
+  D0963, sm1g4c25b, D0964, pm1g4c25b, D0965, qm1g4c25b, D0966, D0967, b1g5c25b, &
+  D0968, D0969, sh4g6c25b, D0970, ph2g6c25b, D0971, qh3g6c25b, D0972, sh3g6c25b, &
+  D0973, qh2g6c25b, D0974, D0975, qh1g6c25b, D0976, ph1g6c25b, D0977, sh1g6c25b, &
+  D0978, D0979, D0980, sh1g2c26a, D0981, ph1g2c26a, D0982, qh1g2c26a, D0983, &
+  sqhg2c26a, sqhg2c26a, D0984, qh2g2c26a, D0985, sh3g2c26a, D0986, qh3g2c26a, &
+  D0987, ph2g2c26a, D0988, sh4g2c26a, D0989, D0990, b1g3c26a, D0991, D0992, &
+  qm1g4c26a, D0993, sm1g4c26a, D0994, D0995, pm1g4c26a, D0996, qm2g4c26a, &
+  D0997, sm2g4c26b, D0998, qm2g4c26b, D0999, sm1g4c26b, D1000, pm1g4c26b, &
+  D1001, qm1g4c26b, D1002, D1003, b1g5c26b, D1004, ql3g6c26b, D1005, pl2g6c26b, &
+  D1006, sl3g6c26b, D1007, D1008, ql2g6c26b, D1009, sl2g6c26b, D1010, D1011, &
+  ql1g6c26b, D1012, pl1g6c26b, D1013, sl1g6c26b, D1014, D1015, D1016, sl1g2c27a, &
+  D1017, pl1g2c27a, D1018, ql1g2c27a, D1019, D1020, sl2g2c27a, D1021, ql2g2c27a, &
+  D1022, D1023, sl3g2c27a, D1024, pl2g2c27a, D1025, ql3g2c27a, D1026, b1g3c27a, &
+  D1027, sqmg4c27a, sqmg4c27a, D1028, qm1g4c27a, D1029, sm1g4c27a, D1030, &
+  D1031, pm1g4c27a, D1032, qm2g4c27a, D1033, sm2g4c27b, D1034, qm2g4c27b, &
+  D1035, sm1g4c27b, D1036, pm1g4c27b, D1037, qm1g4c27b, D1038, D1039, b1g5c27b, &
+  D1040, D1041, sh4g6c27b, D1042, ph2g6c27b, D1043, qh3g6c27b, D1044, sh3g6c27b, &
+  D1045, qh2g6c27b, D1046, D1047, qh1g6c27b, D1048, ph1g6c27b, D1049, sh1g6c27b, &
+  D1050, D1051, D1052, dw100g1c28u, D1053, dw100g1c28d, D1054, D1055, D1056, &
+  sh1g2c28a, D1057, ph1g2c28a, D1058, qh1g2c28a, D1059, sqhg2c28a, sqhg2c28a, &
+  D1060, qh2g2c28a, D1061, sh3g2c28a, D1062, qh3g2c28a, D1063, ph2g2c28a, &
+  D1064, sh4g2c28a, D1065, D1066, b1g3c28a, D1067, D1068, qm1g4c28a, D1069, &
+  sm1g4c28a, D1070, D1071, pm1g4c28a, D1072, qm2g4c28a, D1073, sm2g4c28b, &
+  D1074, qm2g4c28b, D1075, sm1g4c28b, D1076, pm1g4c28b, D1077, qm1g4c28b, &
+  D1078, D1079, b1g5c28b, D1080, ql3g6c28b, D1081, pl2g6c28b, D1082, sl3g6c28b, &
+  D1083, D1084, ql2g6c28b, D1085, sl2g6c28b, D1086, D1087, ql1g6c28b, D1088, &
+  pl1g6c28b, D1089, sl1g6c28b, D1090, D1091, D1092, sl1g2c29a, D1093, pl1g2c29a, &
+  D1094, ql1g2c29a, D1095, D1096, sl2g2c29a, D1097, ql2g2c29a, D1098, D1099, &
+  sl3g2c29a, D1100, pl2g2c29a, D1101, ql3g2c29a, D1102, b1g3c29a, D1103, &
+  sqmg4c29a, sqmg4c29a, D1104, qm1g4c29a, D1105, sm1g4c29a, D1106, D1107, &
+  pm1g4c29a, D1108, qm2g4c29a, D1109, sm2g4c29b, D1110, qm2g4c29b, D1111, &
+  sm1g4c29b, D1112, pm1g4c29b, D1113, qm1g4c29b, D1114, D1115, b1g5c29b, &
+  D1116, D1117, sh4g6c29b, D1118, ph2g6c29b, D1119, qh3g6c29b, D1120, sh3g6c29b, &
+  D1121, qh2g6c29b, D1122, D1123, qh1g6c29b, D1124, ph1g6c29b, D1125, sh1g6c29b, &
+  D1126, D1127)
+
+!use, ring
+!return

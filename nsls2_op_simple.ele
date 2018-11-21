@@ -1,0 +1,21 @@
+&run_setup
+    lattice = nsls2_op_simple.lte,
+    use_beamline = ring,
+    p_central_mev = 3000.0,
+    default_order = 3,
+&end
+
+&alter_elements name=*, type=CSBEN*, item=ISR, value=0 &end
+&alter_elements name=*, type=CSBEN*, item=SYNCH_RAD, value=0 &end
+&alter_elements name=*, type=CSBEN*, item=N_KICKS, value=20 &end
+&alter_elements name=*, type=CSBEN*, item=INTEGRATION_ORDER, value=4 &end
+&alter_elements name=*, type=KQUAD*, item=N_KICKS, value=20 &end
+&alter_elements name=*, type=KSEXT*, item=N_KICKS, value=20 &end
+
+&twiss_output
+    filename = "%s.twi",
+    radiation_integrals=1,
+    concat_order = 3,
+    compute_driving_terms = 0
+&end
+
